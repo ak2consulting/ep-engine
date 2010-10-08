@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_multi_lock_holder.html#a8488b8d8b4e167467a5078f034d126cd" title="Relock the series after having manually unlocked it." alt="" coords="176,5,341,33"/>
+<area shape="rect" id="node7" href="$class_lock_holder.html#a9bf29c5d4a63881e976734695e0a592e" title="Relock a lock that was manually unlocked." alt="" coords="192,55,325,83"/>
+<area shape="rect" id="node5" href="$class_multi_lock_holder.html#a31c14a7df66b07f7769090d36f07e2f7" title="Acquire a series of locks." alt="" coords="391,5,636,33"/>
+<area shape="rect" id="node9" href="$class_lock_holder.html#add088dfe56ad2ceb15f02e7b2758cb71" title="Acquire the lock in the given mutex." alt="" coords="424,55,603,83"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_v_bucket_map.html#a31d15a6d2c8f4425d43409463b1e2986" title="VBucketMap::addBuckets" alt="" coords="331,5,523,33"/>
+<area shape="rect" id="node5" href="$class_load_storage_k_v_pair_callback.html#a66cdb4a54d6b9564ab7103f2ffd3a854" title="Method called on callback." alt="" coords="292,55,561,83"/>
+<area shape="rect" id="node7" href="$class_eventually_persistent_store.html#a9017ce338cc89c41417c4a1fe22527f9" title="EventuallyPersistentStore::EventuallyPersistentStore" alt="" coords="241,106,612,134"/>
+<area shape="rect" id="node9" href="$class_load_storage_k_v_pair_callback.html#ae9bcf71b27cdfaf3b4cc6353c6ec652f" title="LoadStorageKVPairCallback::initVBucket" alt="" coords="281,157,572,185"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_store.html#add682c842b792307fc4d775e69d0d511" title="EventuallyPersistentStore::setVBucketState" alt="" coords="272,207,581,235"/>
+<area shape="rect" id="node11" href="$class_eventually_persistent_store.html#a1aa4c3f42b5ebece41f96f2a49ce71f5" title="EventuallyPersistentStore::warmup" alt="" coords="695,157,951,185"/>
+<area shape="rect" id="node15" href="$class_eventually_persistent_engine.html#a64296190a342ab55e5486d617a41337d" title="EventuallyPersistentEngine::setVBucketState" alt="" coords="661,207,984,235"/>
+<area shape="rect" id="node21" href="$class_eventually_persistent_engine.html#ac342b14e74c4352f55ac1ca5f64e0f63" title="EventuallyPersistentEngine::tapNotify" alt="" coords="687,258,959,286"/>
+<area shape="rect" id="node17" href="$ep__engine_8cc.html#a948e461c8f950af46a4ea50a5bbc6ac5" title="setVbucket" alt="" coords="1039,207,1135,235"/>
+<area shape="rect" id="node19" href="$ep__engine_8cc.html#acb3114cabb056ea53ec6be27f400a846" title="EvpUnknownCommand" alt="" coords="1189,207,1368,235"/>
+<area shape="rect" id="node23" href="$ep__engine_8cc.html#aa57359c099d4ad1d06e02c1111c81844" title="EvpTapNotify" alt="" coords="1033,258,1140,286"/>
+</map>

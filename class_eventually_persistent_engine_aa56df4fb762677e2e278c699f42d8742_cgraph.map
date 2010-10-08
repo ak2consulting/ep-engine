@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_item.html#ace70aa3fc891b5371319eb1d07edfa44" title="Item::getCas" alt="" coords="1063,200,1169,228"/>
+<area shape="rect" id="node5" href="$class_item.html#a9db6711a31cdacddcba49525daaa69bc" title="Item::getData" alt="" coords="403,276,517,304"/>
+<area shape="rect" id="node7" href="$class_item.html#a553eb7e9f447ee7c17a3933e992962e3" title="Item::getFlags" alt="" coords="401,327,519,355"/>
+<area shape="rect" id="node9" href="$class_item.html#a0a9d310ffc2cc4e441057d3f98568d4c" title="Item::getNBytes" alt="" coords="395,377,525,405"/>
+<area shape="rect" id="node11" href="$class_item.html#a4fb03efb2dd1e866009e9b6af4f08278" title="Item::setCas" alt="" coords="408,428,512,456"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_engine.html#afcbf29ea91f0193e711c5f63f7ebe90a" title="EventuallyPersistentEngine::store" alt="" coords="337,225,583,253"/>
+<area shape="rect" id="node15" href="$class_eventually_persistent_store.html#a76bc6f1ebe4c1edd10c6be86892658b7" title="EventuallyPersistentStore::add" alt="" coords="667,301,893,329"/>
+<area shape="rect" id="node18" href="$class_item.html#a69a127532c48e377f418623b03be542c" title="Item::getKey" alt="" coords="1063,251,1169,279"/>
+<area shape="rect" id="node26" href="$class_item.html#a1445a9ba65ccc4014b9b52774615c995" title="Append another item to this item." alt="" coords="724,403,836,431"/>
+<area shape="rect" id="node34" href="$class_item.html#a33942c720908bb11513178a6236b2073" title="Item::getNKey" alt="" coords="721,48,839,76"/>
+<area shape="rect" id="node36" href="$class_eventually_persistent_engine.html#a119a35f23e4bddfcbe50176a0d4056d0" title="EventuallyPersistentEngine::itemRelease" alt="" coords="633,99,927,127"/>
+<area shape="rect" id="node38" href="$class_item.html#a7d2a3e2eb3c8b612340ace68ace3d9f9" title="Prepend another item to this item." alt="" coords="721,453,839,481"/>
+<area shape="rect" id="node42" href="$class_eventually_persistent_store.html#a262c5453ebb0a2e7d7e6a4bde2fcb429" title="EventuallyPersistentStore::set" alt="" coords="669,352,891,380"/>
+<area shape="rect" id="node48" href="$class_item.html#a45f854602ab1a9f17b8097ad00b38d3a" title="Item::setVBucketId" alt="" coords="705,149,855,177"/>
+<area shape="rect" id="node20" href="$class_eventually_persistent_store.html#a9daff8cc0d0bfdade59dc3a392c71928" title="EventuallyPersistentStore::getVBucket" alt="" coords="977,301,1255,329"/>
+<area shape="rect" id="node24" href="$class_item.html#ac1018f0bb01bcfc6f24eb4a3e7401488" title="Item::getVBucketId" alt="" coords="1041,352,1191,380"/>
+<area shape="rect" id="node22" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="1305,301,1487,329"/>
+<area shape="rect" id="node28" href="$class_item.html#ab5385ec49546b2c2eb0857630f5f25a5" title="Item::getValue" alt="" coords="1056,403,1176,431"/>
+<area shape="rect" id="node30" href="$class_blob.html#ab7e65554d93c6cc358c682b3243bde8a" title="Create a new Blob holding the given data." alt="" coords="1072,453,1160,481"/>
+</map>

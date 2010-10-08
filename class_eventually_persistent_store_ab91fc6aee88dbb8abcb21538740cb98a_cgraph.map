@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_atomic.html#a2015110afb1268ae3306cfc35f186607" title="Atomic::decr" alt="" coords="416,5,525,33"/>
+<area shape="rect" id="node5" href="$class_atomic.html#a50d5b1eadc07bf419245a5e11d718486" title="Atomic::get" alt="" coords="420,55,521,83"/>
+<area shape="rect" id="node7" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="380,106,561,134"/>
+<area shape="rect" id="node9" href="$class_v_bucket_map.html#a1abda4598d81ede63bf5e56266bfef96" title="VBucketMap::removeBucket" alt="" coords="365,157,576,185"/>
+<area shape="rect" id="node11" href="$class_dispatcher.html#a434d608a754c810a0746df5a09995f5f" title="Schedule a job to run." alt="" coords="389,207,552,235"/>
+<area shape="rect" id="node17" href="$class_v_bucket_map.html#adb223ab6add247e12dcc1925deea13b6" title="VBucketMap::setBucketDeletion" alt="" coords="353,258,588,286"/>
+<area shape="rect" id="node19" href="$class_lock_holder.html#a6429be45192a854333d64d25eeeff049" title="Manually unlock a lock." alt="" coords="396,309,545,337"/>
+<area shape="rect" id="node13" href="$class_priority.html#a3fbf6ae89b961932f35e0148fce65697" title="Return an integer value that represents a priority." alt="" coords="637,182,821,210"/>
+<area shape="rect" id="node15" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="657,233,801,261"/>
+<area shape="rect" id="node21" href="$class_mutex.html#ad43ff97f225007f2fbb0da2e98676b07" title="Mutex::release" alt="" coords="669,309,789,337"/>
+</map>

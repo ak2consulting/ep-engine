@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_hash_table.html#a97986cbcc30e2279f10cbf528b512415" title="Get the number of buckets that should be used for initialization." alt="" coords="147,5,352,33"/>
+<area shape="rect" id="node7" href="$class_hash_table.html#a829ef1107dd5620d2e4ac8e1f85efe49" title="Get the number of locks that should be used for initialization." alt="" coords="155,55,344,83"/>
+<area shape="rect" id="node5" href="$class_hash_table.html#aca9540a8722844d595d09214579aa157" title="Create a HashTable." alt="" coords="401,5,567,33"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_v_bucket_holder.html#a4ba510960eaa3bcff64de592198b15b9" title="VBucketHolder::addBucket" alt="" coords="199,5,401,33"/>
+<area shape="rect" id="node5" href="$class_load_storage_k_v_pair_callback.html#a66cdb4a54d6b9564ab7103f2ffd3a854" title="Method called on callback." alt="" coords="165,55,435,83"/>
+<area shape="rect" id="node7" href="$class_load_storage_k_v_pair_callback.html#ae9bcf71b27cdfaf3b4cc6353c6ec652f" title="LoadStorageKVPairCallback::initVBucket" alt="" coords="155,106,445,134"/>
+<area shape="rect" id="node11" href="$class_r_c_ptr.html#a569a7def4c8565c59655726e67415878" title="RCPtr\&lt; VBucketHolder \&gt;::operator=" alt="" coords="168,157,432,185"/>
+<area shape="rect" id="node13" href="$class_v_bucket_holder.html#a9006c5ffc62c1785e6428f41c137f147" title="Remove a vbucket by ID." alt="" coords="187,207,413,235"/>
+<area shape="rect" id="node9" href="$class_eventually_persistent_store.html#a1aa4c3f42b5ebece41f96f2a49ce71f5" title="EventuallyPersistentStore::warmup" alt="" coords="493,106,749,134"/>
+</map>

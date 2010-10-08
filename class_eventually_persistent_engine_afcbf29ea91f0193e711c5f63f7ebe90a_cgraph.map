@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_store.html#a76bc6f1ebe4c1edd10c6be86892658b7" title="EventuallyPersistentStore::add" alt="" coords="336,158,563,186"/>
+<area shape="rect" id="node5" href="$class_item.html#ace70aa3fc891b5371319eb1d07edfa44" title="Item::getCas" alt="" coords="732,6,839,34"/>
+<area shape="rect" id="node7" href="$class_item.html#a69a127532c48e377f418623b03be542c" title="Item::getKey" alt="" coords="732,57,839,85"/>
+<area shape="rect" id="node15" href="$class_item.html#a1445a9ba65ccc4014b9b52774615c995" title="Append another item to this item." alt="" coords="393,260,505,288"/>
+<area shape="rect" id="node23" href="$class_item.html#a33942c720908bb11513178a6236b2073" title="Item::getNKey" alt="" coords="391,310,508,338"/>
+<area shape="rect" id="node25" href="$class_eventually_persistent_engine.html#a119a35f23e4bddfcbe50176a0d4056d0" title="EventuallyPersistentEngine::itemRelease" alt="" coords="303,361,596,389"/>
+<area shape="rect" id="node27" href="$class_item.html#a7d2a3e2eb3c8b612340ace68ace3d9f9" title="Prepend another item to this item." alt="" coords="391,209,508,237"/>
+<area shape="rect" id="node31" href="$class_eventually_persistent_store.html#a262c5453ebb0a2e7d7e6a4bde2fcb429" title="EventuallyPersistentStore::set" alt="" coords="339,108,560,136"/>
+<area shape="rect" id="node37" href="$class_item.html#a45f854602ab1a9f17b8097ad00b38d3a" title="Item::setVBucketId" alt="" coords="375,412,524,440"/>
+<area shape="rect" id="node9" href="$class_eventually_persistent_store.html#a9daff8cc0d0bfdade59dc3a392c71928" title="EventuallyPersistentStore::getVBucket" alt="" coords="647,108,924,136"/>
+<area shape="rect" id="node13" href="$class_item.html#ac1018f0bb01bcfc6f24eb4a3e7401488" title="Item::getVBucketId" alt="" coords="711,158,860,186"/>
+<area shape="rect" id="node11" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="975,108,1156,136"/>
+<area shape="rect" id="node17" href="$class_item.html#ab5385ec49546b2c2eb0857630f5f25a5" title="Item::getValue" alt="" coords="725,209,845,237"/>
+<area shape="rect" id="node19" href="$class_blob.html#ab7e65554d93c6cc358c682b3243bde8a" title="Create a new Blob holding the given data." alt="" coords="741,260,829,288"/>
+</map>

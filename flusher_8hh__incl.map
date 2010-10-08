@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$common_8hh.html" title="common.hh" alt="" coords="1223,702,1324,730"/>
+<area shape="rect" id="node36" href="$ep_8hh.html" title="ep.hh" alt="" coords="1069,83,1128,111"/>
+<area shape="rect" id="node143" href="$dispatcher_8hh.html" title="dispatcher.hh" alt="" coords="1653,470,1765,498"/>
+<area shape="rect" id="node25" href="$config_8h.html" title="config.h" alt="" coords="731,779,805,807"/>
+<area shape="rect" id="node27" href="$config__static_8h.html" title="config_static.h" alt="" coords="1013,857,1131,885"/>
+<area shape="rect" id="node66" href="$stats_8hh.html" title="stats.hh" alt="" coords="901,315,976,343"/>
+<area shape="rect" id="node70" href="$atomic_8hh.html" title="atomic.hh" alt="" coords="859,470,947,498"/>
+<area shape="rect" id="node74" href="$locks_8hh.html" title="locks.hh" alt="" coords="864,547,941,575"/>
+<area shape="rect" id="node107" href="$sqlite-kvstore_8hh.html" title="sqlite&#45;kvstore.hh" alt="" coords="1541,315,1675,343"/>
+<area shape="rect" id="node132" href="$stored-value_8hh.html" title="stored&#45;value.hh" alt="" coords="561,238,687,266"/>
+<area shape="rect" id="node152" href="$vbucket_8hh.html" title="vbucket.hh" alt="" coords="813,161,909,189"/>
+<area shape="rect" id="node98" href="$histo_8hh.html" title="histo.hh" alt="" coords="1005,393,1080,421"/>
+<area shape="rect" id="node80" href="$mutex_8hh.html" title="mutex.hh" alt="" coords="611,625,696,653"/>
+<area shape="rect" id="node90" href="$syncobject_8hh.html" title="syncobject.hh" alt="" coords="872,625,987,653"/>
+<area shape="rect" id="node114" href="$sqlite-pst_8hh.html" title="sqlite&#45;pst.hh" alt="" coords="1851,470,1955,498"/>
+<area shape="rect" id="node119" href="$sqlite-strategies_8hh.html" title="sqlite&#45;strategies.hh" alt="" coords="1533,393,1683,421"/>
+<area shape="rect" id="node124" href="$item_8hh.html" title="item.hh" alt="" coords="605,393,677,421"/>
+<area shape="rect" id="node149" href="$priority_8hh.html" title="priority.hh" alt="" coords="1685,625,1776,653"/>
+</map>

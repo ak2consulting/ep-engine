@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_stored_value.html#a589a534b1464fa39039d09a49440f5aa" title="True if this object is not dirty." alt="" coords="244,5,404,33"/>
+<area shape="rect" id="node7" href="$class_stored_value.html#a983ecc4407bad25ce461e9e8348037e1" title="True if this object is logically deleted." alt="" coords="465,207,639,235"/>
+<area shape="rect" id="node9" href="$class_stored_value.html#aea337575c29b684b5865f5cf84adb40d" title="True if this value is resident in memory currently." alt="" coords="463,81,641,109"/>
+<area shape="rect" id="node11" href="$class_blob.html#ab7e65554d93c6cc358c682b3243bde8a" title="Create a new Blob holding the given data." alt="" coords="280,157,368,185"/>
+<area shape="rect" id="node13" href="$class_stored_value.html#ac3872d62bf3b5e42e30d062b90a75e86" title="Get the total size of this item." alt="" coords="256,258,392,286"/>
+<area shape="rect" id="node36" href="$class_stored_value.html#a07883d618d1cd6d36a358dc97b1ea11c" title="StoredValue::valLength" alt="" coords="236,106,412,134"/>
+<area shape="rect" id="node5" href="$class_stored_value.html#afb6c36da2c1af0ef8adc53ef555fdb08" title="True if this object is dirty." alt="" coords="475,5,629,33"/>
+<area shape="rect" id="node15" href="$class_stored_value.html#ac450ecb78542a05cfa1f3b337e2de947" title="Get the length of the key." alt="" coords="461,309,643,337"/>
+<area shape="rect" id="node18" href="$class_stored_value.html#a2b2ce73c52fd67b63debc2104829818a" title="Get the size of a StoredValue object." alt="" coords="476,258,628,286"/>
+<area shape="rect" id="node20" href="$class_stored_value.html#aa8788522ed15059ade9bd75a46246709" title="Get the current amount of of data stored." alt="" coords="703,131,913,159"/>
+<area shape="rect" id="node24" href="$class_stored_value.html#ab08a9fb80435b8c962ed309a4e8257c0" title="Get the maximum amount of memory this instance can store." alt="" coords="699,182,917,210"/>
+<area shape="rect" id="node26" href="$class_stored_value.html#a452b60056dee384b250094c15bdb187b" title="Get the total size of all items in the cache." alt="" coords="692,233,924,261"/>
+<area shape="rect" id="node29" href="$class_stored_value.html#a2820ceb8daf99a8dab5bf06db1686bd0" title="Mark this item as clean." alt="" coords="716,283,900,311"/>
+<area shape="rect" id="node31" href="$class_stored_value.html#a2f0c9872c42fe61eb6ba7da7654b9279" title="Mark this item as needing to be persisted." alt="" coords="719,334,897,362"/>
+<area shape="rect" id="node33" href="$class_stored_value.html#a58ea15c18db054de2e1f5fd28019dcd0" title="Set the maximum amount of data this instance can store." alt="" coords="700,385,916,413"/>
+<area shape="rect" id="node22" href="$class_atomic.html#a50d5b1eadc07bf419245a5e11d718486" title="Atomic::get" alt="" coords="973,182,1075,210"/>
+</map>

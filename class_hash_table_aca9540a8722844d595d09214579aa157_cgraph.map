@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_hash_table.html#a97986cbcc30e2279f10cbf528b512415" title="Get the number of buckets that should be used for initialization." alt="" coords="221,5,427,33"/>
+<area shape="rect" id="node7" href="$class_hash_table.html#a30964fc4125baf87564761a220061ab0" title="Get the number of locks in this hash table." alt="" coords="229,55,419,83"/>
+<area shape="rect" id="node9" href="$class_stored_value.html#ac3872d62bf3b5e42e30d062b90a75e86" title="Get the total size of this item." alt="" coords="256,106,392,134"/>
+<area shape="rect" id="node5" href="$stored-value_8cc.html#adfe08f5e338474f349b119ac4dbc89e1" title="getDefault" alt="" coords="520,5,611,33"/>
+<area shape="rect" id="node11" href="$class_stored_value.html#ac450ecb78542a05cfa1f3b337e2de947" title="Get the length of the key." alt="" coords="475,55,656,83"/>
+<area shape="rect" id="node13" href="$class_stored_value.html#a983ecc4407bad25ce461e9e8348037e1" title="True if this object is logically deleted." alt="" coords="479,106,652,134"/>
+<area shape="rect" id="node15" href="$class_stored_value.html#a2b2ce73c52fd67b63debc2104829818a" title="Get the size of a StoredValue object." alt="" coords="489,157,641,185"/>
+<area shape="rect" id="node17" href="$class_stored_value.html#aa8788522ed15059ade9bd75a46246709" title="Get the current amount of of data stored." alt="" coords="716,30,927,58"/>
+<area shape="rect" id="node21" href="$class_stored_value.html#ab08a9fb80435b8c962ed309a4e8257c0" title="Get the maximum amount of memory this instance can store." alt="" coords="712,81,931,109"/>
+<area shape="rect" id="node23" href="$class_stored_value.html#a452b60056dee384b250094c15bdb187b" title="Get the total size of all items in the cache." alt="" coords="705,131,937,159"/>
+<area shape="rect" id="node26" href="$class_stored_value.html#a2820ceb8daf99a8dab5bf06db1686bd0" title="Mark this item as clean." alt="" coords="729,182,913,210"/>
+<area shape="rect" id="node28" href="$class_stored_value.html#a2f0c9872c42fe61eb6ba7da7654b9279" title="Mark this item as needing to be persisted." alt="" coords="732,233,911,261"/>
+<area shape="rect" id="node30" href="$class_stored_value.html#a58ea15c18db054de2e1f5fd28019dcd0" title="Set the maximum amount of data this instance can store." alt="" coords="713,283,929,311"/>
+<area shape="rect" id="node19" href="$class_atomic.html#a50d5b1eadc07bf419245a5e11d718486" title="Atomic::get" alt="" coords="987,81,1088,109"/>
+</map>

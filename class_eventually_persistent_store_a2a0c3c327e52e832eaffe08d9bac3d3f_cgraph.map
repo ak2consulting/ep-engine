@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_strategic_sqlite3.html#a4bbd9e8f6ff25ead2d71cf89fa9a7dc6" title="StrategicSqlite3::delVBucket" alt="" coords="441,106,655,134"/>
+<area shape="rect" id="node15" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="457,157,639,185"/>
+<area shape="rect" id="node17" href="$common_8hh.html#a176d29eac969ba0153b53f4e87e1ad26" title="getLogger" alt="" coords="503,207,593,235"/>
+<area shape="rect" id="node19" href="$class_v_bucket_map.html#a17bafe4b80f7aa6d44216fe1f423bc3c" title="VBucketMap::isBucketDeletion" alt="" coords="435,258,661,286"/>
+<area shape="rect" id="node21" href="$class_dispatcher.html#a434d608a754c810a0746df5a09995f5f" title="Schedule a job to run." alt="" coords="467,309,629,337"/>
+<area shape="rect" id="node27" href="$class_v_bucket_map.html#adb223ab6add247e12dcc1925deea13b6" title="VBucketMap::setBucketDeletion" alt="" coords="431,359,665,387"/>
+<area shape="rect" id="node29" href="$class_lock_holder.html#a6429be45192a854333d64d25eeeff049" title="Manually unlock a lock." alt="" coords="473,410,623,438"/>
+<area shape="rect" id="node5" href="$class_sqlite_strategy.html#a947481201198215b55bfb57641d466a6" title="SqliteStrategy::allStatements" alt="" coords="744,5,960,33"/>
+<area shape="rect" id="node7" href="$class_prepared_statement.html#a7f6a092cbc3bf92b579eb2ec9c9d1a8f" title="Bind a null&#45;terminated string parameter to a binding in this statement." alt="" coords="757,55,947,83"/>
+<area shape="rect" id="node9" href="$class_prepared_statement.html#a9e609de59008aa6977fe6952a75b10f3" title="Execute a prepared statement that does not return results." alt="" coords="747,106,957,134"/>
+<area shape="rect" id="node11" href="$class_sqlite_strategy.html#a87e6511119cbbab819c5144b9a473ed3" title="SqliteStrategy::getDelVBucketStateST" alt="" coords="715,157,989,185"/>
+<area shape="rect" id="node13" href="$class_prepared_statement.html#ac046e6ccc339333d7049ec77bd156f7a" title="Reset the bindings." alt="" coords="756,207,948,235"/>
+<area shape="rect" id="node23" href="$class_priority.html#a3fbf6ae89b961932f35e0148fce65697" title="Return an integer value that represents a priority." alt="" coords="760,283,944,311"/>
+<area shape="rect" id="node25" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="780,334,924,362"/>
+<area shape="rect" id="node31" href="$class_mutex.html#ad43ff97f225007f2fbb0da2e98676b07" title="Mutex::release" alt="" coords="792,410,912,438"/>
+</map>

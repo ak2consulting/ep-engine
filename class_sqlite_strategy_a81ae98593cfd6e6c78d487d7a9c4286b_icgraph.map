@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_strategic_sqlite3.html#a2e3093d65e3f6bdb11176f34de517de7" title="StrategicSqlite3::setVBState" alt="" coords="329,5,537,33"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#a469cfa86cc2106eefb794a6f8667cb24" title="EventuallyPersistentStore::completeSetVBState" alt="" coords="588,5,924,33"/>
+<area shape="rect" id="node7" href="$class_set_v_b_state_callback.html#a6cc6e41a097defa69d700ddcd97f583a" title="Perform my task." alt="" coords="973,5,1189,33"/>
+</map>

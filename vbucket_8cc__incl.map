@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$config_8h.html" title="config.h" alt="" coords="96,857,171,885"/>
+<area shape="rect" id="node17" href="$vbucket_8hh.html" title="vbucket.hh" alt="" coords="272,315,368,343"/>
+<area shape="rect" id="node94" href="$ep__engine_8h.html" title="ep_engine.h" alt="" coords="815,83,919,111"/>
+<area shape="rect" id="node5" href="$config__static_8h.html" title="config_static.h" alt="" coords="255,934,372,962"/>
+<area shape="rect" id="node31" href="$common_8hh.html" title="common.hh" alt="" coords="1280,779,1381,807"/>
+<area shape="rect" id="node56" href="$atomic_8hh.html" title="atomic.hh" alt="" coords="793,547,881,575"/>
+<area shape="rect" id="node74" href="$stored-value_8hh.html" title="stored&#45;value.hh" alt="" coords="811,393,936,421"/>
+<area shape="rect" id="node64" href="$callbacks_8hh.html" title="callbacks.hh" alt="" coords="600,625,704,653"/>
+<area shape="rect" id="node67" href="$locks_8hh.html" title="locks.hh" alt="" coords="473,702,551,730"/>
+<area shape="rect" id="node82" href="$item_8hh.html" title="item.hh" alt="" coords="324,470,396,498"/>
+<area shape="rect" id="node89" href="$stats_8hh.html" title="stats.hh" alt="" coords="1228,470,1303,498"/>
+<area shape="rect" id="node97" href="$ep_8hh.html" title="ep.hh" alt="" coords="944,238,1003,266"/>
+<area shape="rect" id="node110" href="$sqlite-kvstore_8hh.html" title="sqlite&#45;kvstore.hh" alt="" coords="453,315,587,343"/>
+<area shape="rect" id="node117" href="$dispatcher_8hh.html" title="dispatcher.hh" alt="" coords="1475,470,1587,498"/>
+<area shape="rect" id="node123" href="$flusher_8hh.html" title="flusher.hh" alt="" coords="864,161,952,189"/>
+<area shape="rect" id="node129" href="$ep__extension_8h.html" title="ep_extension.h" alt="" coords="1544,161,1667,189"/>
+<area shape="rect" id="node134" href="$item__pager_8hh.html" title="item_pager.hh" alt="" coords="1600,393,1717,421"/>
+<area shape="rect" id="node149" href="$command__ids_8h.html" title="command_ids.h" alt="" coords="1229,161,1357,189"/>
+<area shape="rect" id="node151" href="$tapconnection_8hh.html" title="tapconnection.hh" alt="" coords="1381,161,1520,189"/>
+</map>

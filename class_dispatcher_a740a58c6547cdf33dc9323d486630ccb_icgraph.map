@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_store.html#af8760ca2c4c5ec7744d99696bf335d45" title="EventuallyPersistentStore::startDispatcher" alt="" coords="208,5,512,33"/>
+<area shape="rect" id="node7" href="$class_eventually_persistent_store.html#ad0434fcfc782d341e23fab3b5aba2f42" title="EventuallyPersistentStore::startNonIODispatcher" alt="" coords="188,55,532,83"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#a9017ce338cc89c41417c4a1fe22527f9" title="EventuallyPersistentStore::EventuallyPersistentStore" alt="" coords="583,30,953,58"/>
+</map>

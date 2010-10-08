@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$class_atomic_ptr.html" title="AtomicPtr\&lt; VBucket \&gt;" alt="" coords="841,9,1015,37"/>
+<area shape="rect" id="node9" href="$class_atomic_ptr.html" title="AtomicPtr\&lt; C \&gt;" alt="" coords="864,59,992,87"/>
+<area shape="rect" id="node11" href="$class_atomic_ptr.html" title="AtomicPtr\&lt; std::queue\&lt; QueuedItem \&gt; \&gt;" alt="" coords="777,110,1079,138"/>
+<area shape="rect" id="node13" href="$class_atomic_ptr.html" title="AtomicPtr\&lt; std::queue\&lt; T \&gt; \&gt;" alt="" coords="815,161,1041,189"/>
+<area shape="rect" id="node15" href="$class_atomic_ptr.html" title="AtomicPtr\&lt; VBucketHolder \&gt;" alt="" coords="819,211,1037,239"/>
+<area shape="rect" id="node2" href="$class_atomic.html" title="Atomic\&lt; T * \&gt;" alt="" coords="215,110,332,138"/>
+<area shape="rect" id="node4" href="$class_atomic.html" title="Holder of atomic values." alt="" coords="7,110,113,138"/>
+</map>

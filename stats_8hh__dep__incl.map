@@ -1,0 +1,21 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ep_8hh.html" title="ep.hh" alt="" coords="348,238,407,266"/>
+<area shape="rect" id="node37" href="$stored-value_8hh.html" title="stored&#45;value.hh" alt="" coords="187,83,312,111"/>
+<area shape="rect" id="node48" href="$item__pager_8hh.html" title="item_pager.hh" alt="" coords="709,238,827,266"/>
+<area shape="rect" id="node5" href="$ep_8cc.html" title="ep.cc" alt="" coords="749,470,805,498"/>
+<area shape="rect" id="node7" href="$flusher_8hh.html" title="flusher.hh" alt="" coords="677,315,765,343"/>
+<area shape="rect" id="node10" href="$ep__engine_8h.html" title="ep_engine.h" alt="" coords="388,393,492,421"/>
+<area shape="rect" id="node24" href="$ep__extension_8h.html" title="ep_extension.h" alt="" coords="125,315,248,343"/>
+<area shape="rect" id="node29" href="$item__pager_8cc.html" title="item_pager.cc" alt="" coords="840,315,955,343"/>
+<area shape="rect" id="node31" href="$sizes_8cc.html" title="sizes.cc" alt="" coords="29,315,101,343"/>
+<area shape="rect" id="node33" href="$sqlite-eval_8cc.html" title="sqlite&#45;eval.cc" alt="" coords="323,315,432,343"/>
+<area shape="rect" id="node35" href="$sqlite-strategies_8cc.html" title="sqlite&#45;strategies.cc" alt="" coords="456,315,603,343"/>
+<area shape="rect" id="node21" href="$flusher_8cc.html" title="flusher.cc" alt="" coords="629,393,715,421"/>
+<area shape="rect" id="node13" href="$ep__engine_8cc.html" title="ep_engine.cc" alt="" coords="241,470,351,498"/>
+<area shape="rect" id="node15" href="$sqlite-kvstore_8cc.html" title="sqlite&#45;kvstore.cc" alt="" coords="375,470,505,498"/>
+<area shape="rect" id="node17" href="$tapconnection_8cc.html" title="tapconnection.cc" alt="" coords="529,470,665,498"/>
+<area shape="rect" id="node19" href="$vbucket_8cc.html" title="vbucket.cc" alt="" coords="5,470,99,498"/>
+<area shape="rect" id="node27" href="$ep__extension_8cc.html" title="ep_extension.cc" alt="" coords="123,393,251,421"/>
+<area shape="rect" id="node40" href="$vbucket_8hh.html" title="vbucket.hh" alt="" coords="17,161,113,189"/>
+<area shape="rect" id="node46" href="$stored-value_8cc.html" title="stored&#45;value.cc" alt="" coords="188,161,311,189"/>
+</map>

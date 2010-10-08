@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_dispatcher_callback.html" title="Code executed when the dispatcher is ready to do your work." alt="" coords="7,207,156,235"/>
+<area shape="rect" id="node3" href="$class_b_g_fetch_callback.html" title="BGFetchCallback" alt="" coords="249,5,383,33"/>
+<area shape="rect" id="node5" href="$class_expired_item_pager.html" title="Dispatcher job responsible for purging expired items from memory and disk." alt="" coords="247,55,385,83"/>
+<area shape="rect" id="node7" href="$class_flusher_stepper.html" title="A DispatcherCallback adaptor over Flusher." alt="" coords="255,106,377,134"/>
+<area shape="rect" id="node9" href="$class_item_pager.html" title="Dispatcher job responsible for periodically pushing data out of memory." alt="" coords="271,157,361,185"/>
+<area shape="rect" id="node11" href="$class_notify_v_b_state_change_callback.html" title="NotifyVBStateChangeCallback" alt="" coords="205,207,427,235"/>
+<area shape="rect" id="node13" href="$class_set_v_b_state_callback.html" title="SetVBStateCallback" alt="" coords="240,258,392,286"/>
+<area shape="rect" id="node15" href="$class_tap_b_g_fetch_callback.html" title="TapBGFetchCallback" alt="" coords="237,309,395,337"/>
+<area shape="rect" id="node17" href="$class_v_bucket_deletion_callback.html" title="VBucketDeletionCallback" alt="" coords="221,359,411,387"/>
+<area shape="rect" id="node19" href="$class_v_key_stat_b_g_fetch_callback.html" title="VKeyStatBGFetchCallback" alt="" coords="219,410,413,438"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_store.html#ae5987f329f0d14507942a9045219833a" title="EventuallyPersistentStore::del" alt="" coords="343,5,564,33"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#a9daff8cc0d0bfdade59dc3a392c71928" title="EventuallyPersistentStore::getVBucket" alt="" coords="615,5,892,33"/>
+<area shape="rect" id="node7" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="943,5,1124,33"/>
+</map>

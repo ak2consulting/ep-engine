@@ -1,0 +1,36 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_store.html#a76bc6f1ebe4c1edd10c6be86892658b7" title="EventuallyPersistentStore::add" alt="" coords="385,55,612,83"/>
+<area shape="rect" id="node13" href="$class_persistence_callback.html#ab2994b82cb3373263f961172444e0500" title="PersistenceCallback::callback" alt="" coords="389,207,608,235"/>
+<area shape="rect" id="node15" href="$class_eventually_persistent_store.html#a49e45b234ec8aa1300cd483d595179d4" title="Complete a background fetch." alt="" coords="340,258,657,286"/>
+<area shape="rect" id="node19" href="$class_eventually_persistent_store.html#ae5987f329f0d14507942a9045219833a" title="EventuallyPersistentStore::del" alt="" coords="388,309,609,337"/>
+<area shape="rect" id="node23" href="$class_eventually_persistent_store.html#ac20ed8956ac6d1bef06de7f5481a91a9" title="EventuallyPersistentStore::evictKey" alt="" coords="369,359,628,387"/>
+<area shape="rect" id="node31" href="$class_eventually_persistent_store.html#a3b96f2a8cb45ed129450a8d350c0a2ae" title="Retrieve a value." alt="" coords="387,461,611,489"/>
+<area shape="rect" id="node37" href="$class_eventually_persistent_store.html#ab2594a0106fb39835acbdd2efcb64b4f" title="Retrieve an item from the disk for vkey stats." alt="" coords="333,511,664,539"/>
+<area shape="rect" id="node39" href="$class_eventually_persistent_store.html#a3b1ec9df8ef6203b16f0d3c862edfbb6" title="EventuallyPersistentStore::getKeyStats" alt="" coords="359,562,639,590"/>
+<area shape="rect" id="node41" href="$class_eventually_persistent_store.html#a6cde59588b9142737e11f8cfbb342308" title="EventuallyPersistentStore::getLocked" alt="" coords="364,613,633,641"/>
+<area shape="rect" id="node47" href="$class_eventually_persistent_engine.html#a73067d30ccb9733332a0f5c14dcc802c" title="EventuallyPersistentEngine::getVBucket" alt="" coords="713,410,1001,438"/>
+<area shape="rect" id="node55" href="$class_deleter.html#a75cc991fc01e8606f19163e2288f4618" title="Deleter::operator()" alt="" coords="425,663,572,691"/>
+<area shape="rect" id="node57" href="$class_eventually_persistent_store.html#af0e3f187d43fd4501b9e17ab2e7e9fa1" title="EventuallyPersistentStore::reset" alt="" coords="381,157,616,185"/>
+<area shape="rect" id="node71" href="$class_eventually_persistent_store.html#a262c5453ebb0a2e7d7e6a4bde2fcb429" title="EventuallyPersistentStore::set" alt="" coords="388,106,609,134"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_engine.html#afcbf29ea91f0193e711c5f63f7ebe90a" title="EventuallyPersistentEngine::store" alt="" coords="735,55,980,83"/>
+<area shape="rect" id="node7" href="$class_eventually_persistent_engine.html#aa56df4fb762677e2e278c699f42d8742" title="EventuallyPersistentEngine::arithmetic" alt="" coords="1051,5,1333,33"/>
+<area shape="rect" id="node11" href="$ep__engine_8cc.html#aef8e78a806d178e5a2d17fa9f8e2c384" title="EvpStore" alt="" coords="1152,55,1232,83"/>
+<area shape="rect" id="node9" href="$ep__engine_8cc.html#a93d3b7e7949034d17723e2fc86981c06" title="EvpArithmetic" alt="" coords="1412,5,1529,33"/>
+<area shape="rect" id="node17" href="$class_b_g_fetch_callback.html#af109ee7a82516b29aa9e8d266065f664" title="Perform my task." alt="" coords="759,258,956,286"/>
+<area shape="rect" id="node21" href="$class_eventually_persistent_engine.html#aa20226fb2ebfb5b8bf4f4e61eb29317b" title="EventuallyPersistentEngine::itemDelete" alt="" coords="715,309,1000,337"/>
+<area shape="rect" id="node25" href="$class_eventually_persistent_engine.html#a92f4a1dd817d28f241db17fa5445970c" title="EventuallyPersistentEngine::evictKey" alt="" coords="723,359,992,387"/>
+<area shape="rect" id="node27" href="$ep__engine_8cc.html#a590252db548f81e1a6281e62b46306bb" title="evictKey" alt="" coords="1153,334,1231,362"/>
+<area shape="rect" id="node29" href="$ep__engine_8cc.html#acb3114cabb056ea53ec6be27f400a846" title="EvpUnknownCommand" alt="" coords="1381,385,1560,413"/>
+<area shape="rect" id="node33" href="$class_eventually_persistent_engine.html#afb5b28a46694245a056d56af901642bc" title="EventuallyPersistentEngine::get" alt="" coords="740,473,975,501"/>
+<area shape="rect" id="node35" href="$ep__engine_8cc.html#a1f56bd155c91266ef0263f21cbc761d8" title="EvpGet" alt="" coords="1157,486,1227,514"/>
+<area shape="rect" id="node43" href="$class_getl_extension.html#a2a6cb7bdce0412e30b61fba059828328" title="GetlExtension::executeGetl" alt="" coords="756,613,959,641"/>
+<area shape="rect" id="node45" href="$ep__extension_8cc.html#a175bbeb123b986f1ca0a2c5670aef2d3" title="ext_execute" alt="" coords="1141,613,1243,641"/>
+<area shape="rect" id="node49" href="$ep__engine_8cc.html#a444da8477401c35ec6946b21deb4236d" title="deleteVBucket" alt="" coords="1133,385,1251,413"/>
+<area shape="rect" id="node52" href="$ep__engine_8cc.html#a278969498b4686e1f1014865b1553ced" title="getVbucket" alt="" coords="1143,435,1241,463"/>
+<area shape="rect" id="node59" href="$class_eventually_persistent_engine.html#aba27758916a7a98512e82de4fd8aeee3" title="EventuallyPersistentEngine::flush" alt="" coords="735,157,980,185"/>
+<area shape="rect" id="node67" href="$class_eventually_persistent_engine.html#a81c7ef1172d7ebcaf8f73333e0a92edd" title="EventuallyPersistentEngine::initialize" alt="" coords="723,207,992,235"/>
+<area shape="rect" id="node61" href="$ep__engine_8cc.html#ab3daa6811907b23f830357f86c93e41f" title="EvpFlush" alt="" coords="1151,157,1233,185"/>
+<area shape="rect" id="node63" href="$class_eventually_persistent_engine.html#ac342b14e74c4352f55ac1ca5f64e0f63" title="EventuallyPersistentEngine::tapNotify" alt="" coords="1056,106,1328,134"/>
+<area shape="rect" id="node65" href="$ep__engine_8cc.html#aa57359c099d4ad1d06e02c1111c81844" title="EvpTapNotify" alt="" coords="1417,106,1524,134"/>
+<area shape="rect" id="node69" href="$ep__engine_8cc.html#a51d4c11d48d7ce41ae6c299da78beb07" title="EvpInitialize" alt="" coords="1141,207,1243,235"/>
+</map>

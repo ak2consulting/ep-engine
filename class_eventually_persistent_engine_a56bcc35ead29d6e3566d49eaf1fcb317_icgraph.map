@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_tap_b_g_fetch_callback.html#a9d28ed3a1fe6958fdbc99683ce98213c" title="Perform my task." alt="" coords="369,5,591,33"/>
+<area shape="rect" id="node5" href="$class_tap_connection.html#ad1a2479ecb63ac80421e786dd38ee3f4" title="Invoked once per batch bg fetch job." alt="" coords="343,55,617,83"/>
+<area shape="rect" id="node7" href="$class_completed_b_g_fetch_tap_operation.html#aad165ede5c3305e9d41a91eedb6de7ea" title="CompletedBGFetchTapOperation::perform" alt="" coords="668,55,967,83"/>
+</map>

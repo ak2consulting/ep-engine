@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_store.html#a9daff8cc0d0bfdade59dc3a392c71928" title="EventuallyPersistentStore::getVBucket" alt="" coords="385,5,663,33"/>
+<area shape="rect" id="node7" href="$class_dispatcher.html#a434d608a754c810a0746df5a09995f5f" title="Schedule a job to run." alt="" coords="443,55,605,83"/>
+<area shape="rect" id="node5" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="713,5,895,33"/>
+<area shape="rect" id="node9" href="$class_priority.html#a3fbf6ae89b961932f35e0148fce65697" title="Return an integer value that represents a priority." alt="" coords="712,55,896,83"/>
+<area shape="rect" id="node11" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="732,106,876,134"/>
+</map>

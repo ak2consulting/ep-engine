@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_stored_value.html#a5690735ab7df847bb83295eb67dbc900" title="True of this item is for the given key." alt="" coords="253,30,411,58"/>
+<area shape="rect" id="node9" href="$class_stored_value.html#a983ecc4407bad25ce461e9e8348037e1" title="True if this object is logically deleted." alt="" coords="245,81,419,109"/>
+<area shape="rect" id="node5" href="$class_stored_value.html#a3d14f5422d4f95add2b3beaf67d4418c" title="Get the pointer to the beginning of the key." alt="" coords="467,5,661,33"/>
+<area shape="rect" id="node7" href="$class_stored_value.html#ac450ecb78542a05cfa1f3b337e2de947" title="Get the length of the key." alt="" coords="473,55,655,83"/>
+</map>

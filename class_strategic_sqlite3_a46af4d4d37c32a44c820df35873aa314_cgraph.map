@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_sqlite_strategy.html#ae79a28838872a326b7aaa89267faabe5" title="SqliteStrategy::destroyTables" alt="" coords="224,5,440,33"/>
+<area shape="rect" id="node9" href="$class_strategic_sqlite3.html#a25f3684c528fa2a191c503cc7e90e812" title="Rollback a transaction (unless not currently in one)." alt="" coords="237,55,427,83"/>
+<area shape="rect" id="node5" href="$class_sqlite_strategy.html#a121df0b0afd39828da928aa073a0f68e" title="SqliteStrategy::execute" alt="" coords="489,5,665,33"/>
+<area shape="rect" id="node7" href="$class_prepared_statement.html#a9e609de59008aa6977fe6952a75b10f3" title="Execute a prepared statement that does not return results." alt="" coords="716,5,927,33"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_engine.html#a81c7ef1172d7ebcaf8f73333e0a92edd" title="EventuallyPersistentEngine::initialize" alt="" coords="272,145,541,173"/>
+<area shape="rect" id="node7" href="$class_stored_value.html#a2b2ce73c52fd67b63debc2104829818a" title="Get the size of a StoredValue object." alt="" coords="331,207,483,235"/>
+<area shape="rect" id="node5" href="$ep__engine_8cc.html#a51d4c11d48d7ce41ae6c299da78beb07" title="EvpInitialize" alt="" coords="608,131,709,159"/>
+<area shape="rect" id="node9" href="$sizes_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="631,182,687,210"/>
+<area shape="rect" id="node11" href="$class_stored_value.html#ac3872d62bf3b5e42e30d062b90a75e86" title="Get the total size of this item." alt="" coords="591,233,727,261"/>
+<area shape="rect" id="node13" href="$class_hash_table.html#a0e58e888d0f0963247b5eea143da7ab4" title="Get the bucket number for the given C string key." alt="" coords="821,5,965,33"/>
+<area shape="rect" id="node15" href="$class_stored_value.html#a9216345de1d1deb05ea256b40467bd5f" title="Logically delete this object." alt="" coords="828,55,959,83"/>
+<area shape="rect" id="node19" href="$class_stored_value.html#a42ed717076250cfbdf2799fc3072cd27" title="StoredValue::ejectValue" alt="" coords="804,157,983,185"/>
+<area shape="rect" id="node27" href="$class_hash_table.html#aca9540a8722844d595d09214579aa157" title="Create a HashTable." alt="" coords="811,207,976,235"/>
+<area shape="rect" id="node29" href="$class_hash_table.html#a551cd6279513c6c1cb5cd2ce7d0a8626" title="HashTable::memorySize" alt="" coords="803,258,984,286"/>
+<area shape="rect" id="node35" href="$class_stored_value.html#ace63d66acbdc5b7e388ba23fb9c7f2d6" title="StoredValue::restoreValue" alt="" coords="796,309,991,337"/>
+<area shape="rect" id="node37" href="$class_stored_value.html#a98cf7e11b175b63456fce9c6295dc0ca" title="Set a new value for this item." alt="" coords="809,106,977,134"/>
+<area shape="rect" id="node43" href="$class_hash_table.html#a65a4132a3011ea8bc100a6c0a45ce4e7" title="Delete a key from the cache without trying to lock the cache first (Please note that you MUST acquire..." alt="" coords="800,359,987,387"/>
+<area shape="rect" id="node45" href="$class_hash_table_stat_visitor.html#aff0af37897c8b70e0fcd4b7d9090cd64" title="Visit an individual item within a hash table." alt="" coords="796,410,991,438"/>
+<area shape="rect" id="node47" href="$class_hash_table_depth_stat_visitor.html#acb1f7a14057176b0a3f8a5f1460ab3cb" title="Called once for each hashtable bucket with its depth." alt="" coords="776,461,1011,489"/>
+<area shape="rect" id="node17" href="$class_hash_table.html#a45ad0d59b9181e2333a2d8ef480beb00" title="Unlocked implementation of softDelete." alt="" coords="1060,5,1292,33"/>
+<area shape="rect" id="node21" href="$class_hash_table.html#a99f4697a8d1ff78976937ad1309bc1f6" title="Add an item to the hash table iff it doesn&#39;t already exist." alt="" coords="1115,106,1237,134"/>
+<area shape="rect" id="node23" href="$class_persistence_callback.html#ab2994b82cb3373263f961172444e0500" title="PersistenceCallback::callback" alt="" coords="1067,157,1285,185"/>
+<area shape="rect" id="node25" href="$class_paging_visitor.html#adbc9d0129db876a2cb24a9910834da46" title="Visit an individual item within a hash table." alt="" coords="1104,207,1248,235"/>
+<area shape="rect" id="node31" href="$class_v_bucket.html#a441fed22b626ef43630dc9968ac020fd" title="VBucket::VBucket" alt="" coords="1105,258,1247,286"/>
+<area shape="rect" id="node33" href="$class_v_bucket.html#afb824c47c7d06d2bbe40696a5b3d39b3" title="VBucket::~VBucket" alt="" coords="1100,309,1252,337"/>
+<area shape="rect" id="node40" href="$class_hash_table.html#a86881fecc98c854f87d0b040f47091e6" title="Set a new Item into this hashtable." alt="" coords="1117,55,1235,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_engine.html#aba27758916a7a98512e82de4fd8aeee3" title="EventuallyPersistentEngine::flush" alt="" coords="136,81,381,109"/>
+<area shape="rect" id="node17" href="$ep__engine_8cc.html#a6978613380551af0677b42c2d6472cce" title="Helper function to avoid typing in the long cast all over the place." alt="" coords="213,131,304,159"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#af0e3f187d43fd4501b9e17ab2e7e9fa1" title="EventuallyPersistentStore::reset" alt="" coords="429,81,664,109"/>
+<area shape="rect" id="node7" href="$class_atomic.html#a2015110afb1268ae3306cfc35f186607" title="Atomic::decr" alt="" coords="797,5,907,33"/>
+<area shape="rect" id="node9" href="$class_atomic.html#a50d5b1eadc07bf419245a5e11d718486" title="Atomic::get" alt="" coords="801,55,903,83"/>
+<area shape="rect" id="node11" href="$class_v_bucket_map.html#a2cb68a5d25154ae4650aeeb8832b110d" title="VBucketMap::getBuckets" alt="" coords="757,106,947,134"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_store.html#a9daff8cc0d0bfdade59dc3a392c71928" title="EventuallyPersistentStore::getVBucket" alt="" coords="713,157,991,185"/>
+<area shape="rect" id="node15" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="1041,157,1223,185"/>
+</map>

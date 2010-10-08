@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_e_p_stats.html#a25b618091cfdd6f63c6f973b2180c944" title="Reset all stats to reasonable values." alt="" coords="335,30,447,58"/>
+<area shape="rect" id="node5" href="$class_histogram.html#a04ea2a676a5441038eb957456e1111da" title="Set all bins to 0." alt="" coords="496,5,629,33"/>
+<area shape="rect" id="node7" href="$class_atomic.html#a4cb63ddba4b2a38c9afdbb05fa5113fb" title="Atomic::set" alt="" coords="513,55,612,83"/>
+</map>

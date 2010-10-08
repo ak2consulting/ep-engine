@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_multi_d_b_sqlite_strategy.html#a03cc19d91b0f4ba51576777b519815a4" title="MultiDBSqliteStrategy::destroyTables" alt="" coords="232,5,499,33"/>
+<area shape="rect" id="node5" href="$class_sqlite_strategy.html#ae79a28838872a326b7aaa89267faabe5" title="SqliteStrategy::destroyTables" alt="" coords="257,55,473,83"/>
+<area shape="rect" id="node9" href="$class_sqlite_strategy.html#a44d3062b0550b853ad59220e0ca59b9c" title="SqliteStrategy::initMetaTables" alt="" coords="256,106,475,134"/>
+<area shape="rect" id="node13" href="$class_multi_d_b_sqlite_strategy.html#adcd1ac1415f756d17de5dafabf3b105c" title="MultiDBSqliteStrategy::initTables" alt="" coords="247,157,484,185"/>
+<area shape="rect" id="node15" href="$class_sqlite_strategy.html#a59a89e07cca9d776eb8324f903f8325b" title="SqliteStrategy::initTables" alt="" coords="272,207,459,235"/>
+<area shape="rect" id="node7" href="$class_strategic_sqlite3.html#a46af4d4d37c32a44c820df35873aa314" title="Reset database to a clean state." alt="" coords="547,55,717,83"/>
+<area shape="rect" id="node11" href="$class_sqlite_strategy.html#a76080df6b1c5fc847040d2ef76861a7d" title="SqliteStrategy::open" alt="" coords="553,157,711,185"/>
+</map>

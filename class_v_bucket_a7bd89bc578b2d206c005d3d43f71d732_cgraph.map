@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$config__static_8h.html#ac0f2d9a214d8f303481d0b5a2013c78a" title="gethrtime" alt="" coords="241,5,329,33"/>
+<area shape="rect" id="node5" href="$gethrtime_8c.html#a3e29bd6885708a22da838cf7afadc358" title="clock_gettime" alt="" coords="380,5,495,33"/>
+<area shape="rect" id="node7" href="$gethrtime_8c.html#a3c1b03528626cf799b363f0f51786d3b" title="mach_absolute_difference" alt="" coords="544,5,741,33"/>
+</map>

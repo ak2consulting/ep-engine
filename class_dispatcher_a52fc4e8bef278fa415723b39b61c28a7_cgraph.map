@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_dispatcher.html#ae3c73ff1334bcdbc0b354fd6f89d1c27" title="Stop this dispatcher." alt="" coords="240,55,371,83"/>
+<area shape="rect" id="node5" href="$common_8hh.html#a176d29eac969ba0153b53f4e87e1ad26" title="getLogger" alt="" coords="449,5,540,33"/>
+<area shape="rect" id="node7" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="423,55,567,83"/>
+<area shape="rect" id="node9" href="$class_lock_holder.html#a6429be45192a854333d64d25eeeff049" title="Manually unlock a lock." alt="" coords="420,106,569,134"/>
+<area shape="rect" id="node11" href="$class_mutex.html#ad43ff97f225007f2fbb0da2e98676b07" title="Mutex::release" alt="" coords="619,106,739,134"/>
+</map>

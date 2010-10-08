@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_strategic_sqlite3.html#af32f57696a00b58385ddb3fc83582650" title="Overrides del()." alt="" coords="295,55,452,83"/>
+<area shape="rect" id="node5" href="$class_strategic_sqlite3.html#a4bbd9e8f6ff25ead2d71cf89fa9a7dc6" title="StrategicSqlite3::delVBucket" alt="" coords="267,106,480,134"/>
+<area shape="rect" id="node11" href="$class_sqlite_strategy.html#a121df0b0afd39828da928aa073a0f68e" title="SqliteStrategy::execute" alt="" coords="285,157,461,185"/>
+<area shape="rect" id="node28" href="$class_strategic_sqlite3.html#a2e3093d65e3f6bdb11176f34de517de7" title="StrategicSqlite3::setVBState" alt="" coords="269,258,477,286"/>
+<area shape="rect" id="node7" href="$class_eventually_persistent_store.html#a2a0c3c327e52e832eaffe08d9bac3d3f" title="EventuallyPersistentStore::completeVBucketDeletion" alt="" coords="529,5,903,33"/>
+<area shape="rect" id="node9" href="$class_v_bucket_deletion_callback.html#ac9b7539febe1f2671ce6065b861e2532" title="Perform my task." alt="" coords="953,5,1207,33"/>
+<area shape="rect" id="node13" href="$class_multi_d_b_sqlite_strategy.html#a03cc19d91b0f4ba51576777b519815a4" title="MultiDBSqliteStrategy::destroyTables" alt="" coords="583,55,849,83"/>
+<area shape="rect" id="node15" href="$class_sqlite_strategy.html#ae79a28838872a326b7aaa89267faabe5" title="SqliteStrategy::destroyTables" alt="" coords="608,106,824,134"/>
+<area shape="rect" id="node19" href="$class_sqlite_strategy.html#a44d3062b0550b853ad59220e0ca59b9c" title="SqliteStrategy::initMetaTables" alt="" coords="607,157,825,185"/>
+<area shape="rect" id="node23" href="$class_multi_d_b_sqlite_strategy.html#adcd1ac1415f756d17de5dafabf3b105c" title="MultiDBSqliteStrategy::initTables" alt="" coords="597,207,835,235"/>
+<area shape="rect" id="node25" href="$class_sqlite_strategy.html#a59a89e07cca9d776eb8324f903f8325b" title="SqliteStrategy::initTables" alt="" coords="623,258,809,286"/>
+<area shape="rect" id="node17" href="$class_strategic_sqlite3.html#a46af4d4d37c32a44c820df35873aa314" title="Reset database to a clean state." alt="" coords="995,106,1165,134"/>
+<area shape="rect" id="node21" href="$class_sqlite_strategy.html#a76080df6b1c5fc847040d2ef76861a7d" title="SqliteStrategy::open" alt="" coords="1001,207,1159,235"/>
+<area shape="rect" id="node30" href="$class_eventually_persistent_store.html#a469cfa86cc2106eefb794a6f8667cb24" title="EventuallyPersistentStore::completeSetVBState" alt="" coords="548,309,884,337"/>
+<area shape="rect" id="node32" href="$class_set_v_b_state_callback.html#a6cc6e41a097defa69d700ddcd97f583a" title="Perform my task." alt="" coords="972,309,1188,337"/>
+</map>

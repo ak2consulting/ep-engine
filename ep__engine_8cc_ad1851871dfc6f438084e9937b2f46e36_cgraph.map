@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_engine.html#ad6a5b38b42f232b57418b862ceae54ae" title="EventuallyPersistentEngine::stopFlusher" alt="" coords="155,81,445,109"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#a64b0ddc0bd7bfb29906560523fe2ea4c" title="EventuallyPersistentStore::getFlusher" alt="" coords="503,5,775,33"/>
+<area shape="rect" id="node7" href="$common_8hh.html#a176d29eac969ba0153b53f4e87e1ad26" title="getLogger" alt="" coords="593,55,684,83"/>
+<area shape="rect" id="node9" href="$class_eventually_persistent_store.html#afed839ff1e3459b276c035f942bf6449" title="EventuallyPersistentStore::pauseFlusher" alt="" coords="493,106,784,134"/>
+<area shape="rect" id="node13" href="$class_flusher.html#af2bfa6e06b9825bcd75911dbf0d67315" title="Flusher::stateName" alt="" coords="563,157,715,185"/>
+<area shape="rect" id="node11" href="$class_flusher.html#a7672258bcd7306fb6de20fc0e096c98e" title="Flusher::pause" alt="" coords="832,106,952,134"/>
+</map>

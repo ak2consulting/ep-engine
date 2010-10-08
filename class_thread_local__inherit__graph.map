@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_thread_local.html" title="ThreadLocal\&lt; T * \&gt;" alt="" coords="520,74,675,102"/>
+<area shape="rect" id="node11" href="$class_thread_local.html" title="ThreadLocal\&lt; AtomicPtr\&lt; std::queue\&lt; T \&gt; \&gt; * \&gt;" alt="" coords="737,127,1087,155"/>
+<area shape="rect" id="node14" href="$class_thread_local.html" title="ThreadLocal\&lt; AtomicPtr\&lt; std::queue\&lt; QueuedItem \&gt; \&gt; * \&gt;" alt="" coords="700,5,1124,33"/>
+<area shape="rect" id="node5" href="$class_thread_local_ptr.html" title="Container for a thread&#45;local pointer." alt="" coords="1149,74,1312,102"/>
+<area shape="rect" id="node7" href="$class_thread_local_ptr.html" title="ThreadLocalPtr\&lt; AtomicPtr\&lt; std::queue\&lt; QueuedItem \&gt; \&gt; \&gt;" alt="" coords="1673,25,2105,53"/>
+<area shape="rect" id="node9" href="$class_thread_local_ptr.html" title="ThreadLocalPtr\&lt; AtomicPtr\&lt; std::queue\&lt; T \&gt; \&gt; \&gt;" alt="" coords="1711,95,2068,123"/>
+</map>

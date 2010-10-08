@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$common_8hh.html#a176d29eac969ba0153b53f4e87e1ad26" title="getLogger" alt="" coords="455,5,545,33"/>
+<area shape="rect" id="node5" href="$class_dispatcher.html#ae64402ad4f9c794868be79db9655e3cb" title="Dispatcher&#39;s main loop." alt="" coords="251,106,376,134"/>
+<area shape="rect" id="node7" href="$config__static_8h.html#ac0f2d9a214d8f303481d0b5a2013c78a" title="gethrtime" alt="" coords="456,55,544,83"/>
+<area shape="rect" id="node14" href="$common_8hh.html#a0e87a35ac159ea6dab7835ce9bcccdad" title="less_tv" alt="" coords="467,106,533,134"/>
+<area shape="rect" id="node16" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="428,157,572,185"/>
+<area shape="rect" id="node18" href="$class_lock_holder.html#a6429be45192a854333d64d25eeeff049" title="Manually unlock a lock." alt="" coords="425,207,575,235"/>
+<area shape="rect" id="node22" href="$class_sync_object.html#a690d11a1ce8b8791f5d28942192eb51c" title="SyncObject::wait" alt="" coords="433,258,567,286"/>
+<area shape="rect" id="node9" href="$gethrtime_8c.html#a3e29bd6885708a22da838cf7afadc358" title="clock_gettime" alt="" coords="635,55,749,83"/>
+<area shape="rect" id="node11" href="$gethrtime_8c.html#a3c1b03528626cf799b363f0f51786d3b" title="mach_absolute_difference" alt="" coords="808,55,1005,83"/>
+<area shape="rect" id="node20" href="$class_mutex.html#ad43ff97f225007f2fbb0da2e98676b07" title="Mutex::release" alt="" coords="632,207,752,235"/>
+<area shape="rect" id="node24" href="$class_mutex.html#af1011a45e16f60ec45972d550abd4566" title="Mutex::setHolder" alt="" coords="624,258,760,286"/>
+</map>

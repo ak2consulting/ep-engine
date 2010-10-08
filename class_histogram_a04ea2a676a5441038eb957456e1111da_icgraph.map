@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_e_p_stats.html#a25b618091cfdd6f63c6f973b2180c944" title="Reset all stats to reasonable values." alt="" coords="188,30,300,58"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_engine.html#aceddcc971cc21be6b9fede2454666063" title="EventuallyPersistentEngine::resetStats" alt="" coords="349,30,629,58"/>
+<area shape="rect" id="node7" href="$ep__engine_8cc.html#a576061844491fbc2bf1cb6ccfa2880d4" title="EvpResetStats" alt="" coords="755,5,869,33"/>
+<area shape="rect" id="node9" href="$class_eventually_persistent_engine.html#a81c7ef1172d7ebcaf8f73333e0a92edd" title="EventuallyPersistentEngine::initialize" alt="" coords="677,55,947,83"/>
+<area shape="rect" id="node11" href="$ep__engine_8cc.html#a51d4c11d48d7ce41ae6c299da78beb07" title="EvpInitialize" alt="" coords="996,55,1097,83"/>
+</map>

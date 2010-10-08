@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_store.html#af0e3f187d43fd4501b9e17ab2e7e9fa1" title="EventuallyPersistentStore::reset" alt="" coords="243,81,477,109"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_engine.html#aba27758916a7a98512e82de4fd8aeee3" title="EventuallyPersistentEngine::flush" alt="" coords="537,55,783,83"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_engine.html#a81c7ef1172d7ebcaf8f73333e0a92edd" title="EventuallyPersistentEngine::initialize" alt="" coords="525,106,795,134"/>
+<area shape="rect" id="node7" href="$ep__engine_8cc.html#ab3daa6811907b23f830357f86c93e41f" title="EvpFlush" alt="" coords="939,5,1021,33"/>
+<area shape="rect" id="node9" href="$class_eventually_persistent_engine.html#ac342b14e74c4352f55ac1ca5f64e0f63" title="EventuallyPersistentEngine::tapNotify" alt="" coords="844,55,1116,83"/>
+<area shape="rect" id="node11" href="$ep__engine_8cc.html#aa57359c099d4ad1d06e02c1111c81844" title="EvpTapNotify" alt="" coords="1167,55,1273,83"/>
+<area shape="rect" id="node15" href="$ep__engine_8cc.html#a51d4c11d48d7ce41ae6c299da78beb07" title="EvpInitialize" alt="" coords="929,106,1031,134"/>
+</map>

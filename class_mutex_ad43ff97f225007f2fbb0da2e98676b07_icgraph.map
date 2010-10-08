@@ -1,0 +1,28 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_multi_lock_holder.html#ac51b4af4839808017f4e510e70e73806" title="Manually unlock the series." alt="" coords="175,81,356,109"/>
+<area shape="rect" id="node7" href="$class_lock_holder.html#a6429be45192a854333d64d25eeeff049" title="Manually unlock a lock." alt="" coords="191,207,340,235"/>
+<area shape="rect" id="node5" href="$class_multi_lock_holder.html#a89266f1b270e6bd59e56ed65c9512fd1" title="MultiLockHolder::~MultiLockHolder" alt="" coords="465,5,721,33"/>
+<area shape="rect" id="node9" href="$class_eventually_persistent_store.html#a49e45b234ec8aa1300cd483d595179d4" title="Complete a background fetch." alt="" coords="435,55,752,83"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_store.html#a2a0c3c327e52e832eaffe08d9bac3d3f" title="EventuallyPersistentStore::completeVBucketDeletion" alt="" coords="407,106,780,134"/>
+<area shape="rect" id="node17" href="$class_eventually_persistent_store.html#ab91fc6aee88dbb8abcb21538740cb98a" title="EventuallyPersistentStore::deleteVBucket" alt="" coords="444,157,743,185"/>
+<area shape="rect" id="node25" href="$class_eventually_persistent_engine.html#a6dcd3e76861f9f2c039a625a33a09eb8" title="EventuallyPersistentEngine::handleDisconnect" alt="" coords="428,207,759,235"/>
+<area shape="rect" id="node33" href="$class_dispatcher.html#ae64402ad4f9c794868be79db9655e3cb" title="Dispatcher&#39;s main loop." alt="" coords="531,258,656,286"/>
+<area shape="rect" id="node46" href="$class_dispatcher.html#ae3c73ff1334bcdbc0b354fd6f89d1c27" title="Stop this dispatcher." alt="" coords="528,309,659,337"/>
+<area shape="rect" id="node52" href="$class_hash_table.html#a9edd623bc8d50b043144045c3a217fbb" title="Visit all items within this hashtable." alt="" coords="531,359,656,387"/>
+<area shape="rect" id="node54" href="$class_lock_holder.html#ae718cd98823888c866cb252b44ce1d16" title="Release the lock." alt="" coords="497,410,689,438"/>
+<area shape="rect" id="node11" href="$class_b_g_fetch_callback.html#af109ee7a82516b29aa9e8d266065f664" title="Perform my task." alt="" coords="923,55,1120,83"/>
+<area shape="rect" id="node15" href="$class_v_bucket_deletion_callback.html#ac9b7539febe1f2671ce6065b861e2532" title="Perform my task." alt="" coords="895,106,1148,134"/>
+<area shape="rect" id="node19" href="$class_eventually_persistent_engine.html#a6f703485e33d95adc2aab023c4989500" title="EventuallyPersistentEngine::deleteVBucket" alt="" coords="867,157,1176,185"/>
+<area shape="rect" id="node21" href="$ep__engine_8cc.html#a444da8477401c35ec6946b21deb4236d" title="deleteVBucket" alt="" coords="1337,157,1455,185"/>
+<area shape="rect" id="node23" href="$ep__engine_8cc.html#acb3114cabb056ea53ec6be27f400a846" title="EvpUnknownCommand" alt="" coords="1663,157,1841,185"/>
+<area shape="rect" id="node27" href="$ep__engine_8cc.html#a07ed5fa687b2e7468610b72f3ea1a5cf" title="EvpHandleDisconnect" alt="" coords="937,207,1105,235"/>
+<area shape="rect" id="node29" href="$class_eventually_persistent_engine.html#a81c7ef1172d7ebcaf8f73333e0a92edd" title="EventuallyPersistentEngine::initialize" alt="" coords="1261,207,1531,235"/>
+<area shape="rect" id="node31" href="$ep__engine_8cc.html#a51d4c11d48d7ce41ae6c299da78beb07" title="EvpInitialize" alt="" coords="1701,207,1803,235"/>
+<area shape="rect" id="node35" href="$dispatcher_8cc.html#a300914a3de319cdefcafa3cf663c67c4" title="launch_dispatcher_thread" alt="" coords="924,258,1119,286"/>
+<area shape="rect" id="node37" href="$class_dispatcher.html#a740a58c6547cdf33dc9323d486630ccb" title="Start this dispatcher&#39;s thread." alt="" coords="1329,258,1463,286"/>
+<area shape="rect" id="node39" href="$class_eventually_persistent_store.html#af8760ca2c4c5ec7744d99696bf335d45" title="EventuallyPersistentStore::startDispatcher" alt="" coords="1600,258,1904,286"/>
+<area shape="rect" id="node43" href="$class_eventually_persistent_store.html#ad0434fcfc782d341e23fab3b5aba2f42" title="EventuallyPersistentStore::startNonIODispatcher" alt="" coords="1580,309,1924,337"/>
+<area shape="rect" id="node41" href="$class_eventually_persistent_store.html#a9017ce338cc89c41417c4a1fe22527f9" title="EventuallyPersistentStore::EventuallyPersistentStore" alt="" coords="1975,283,2345,311"/>
+<area shape="rect" id="node48" href="$class_dispatcher.html#a52fc4e8bef278fa415723b39b61c28a7" title="Dispatcher::~Dispatcher" alt="" coords="929,309,1113,337"/>
+<area shape="rect" id="node50" href="$class_eventually_persistent_store.html#a40ed32c5577b559a679e839468cceeec" title="EventuallyPersistentStore::~EventuallyPersistentStore" alt="" coords="831,359,1212,387"/>
+</map>

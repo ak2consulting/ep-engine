@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_tap_operation.html" title="TapOperation\&lt; Item * \&gt;" alt="" coords="507,5,688,33"/>
+<area shape="rect" id="node7" href="$class_tap_operation.html" title="TapOperation\&lt; EventuallyPersistentEngine * \&gt;" alt="" coords="431,55,764,83"/>
+<area shape="rect" id="node11" href="$class_tap_operation.html" title="TapOperation\&lt; void * \&gt;" alt="" coords="507,106,688,134"/>
+<area shape="rect" id="node5" href="$class_received_item_tap_operation.html" title="ReceivedItemTapOperation" alt="" coords="835,5,1035,33"/>
+<area shape="rect" id="node9" href="$class_completed_b_g_fetch_tap_operation.html" title="CompletedBGFetchTapOperation" alt="" coords="816,55,1053,83"/>
+<area shape="rect" id="node13" href="$class_complete_backfill_tap_operation.html" title="CompleteBackfillTapOperation" alt="" coords="824,106,1045,134"/>
+</map>

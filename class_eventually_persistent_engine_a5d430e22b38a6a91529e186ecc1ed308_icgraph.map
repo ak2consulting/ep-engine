@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_tap_b_g_fetch_callback.html#a9d28ed3a1fe6958fdbc99683ce98213c" title="Perform my task." alt="" coords="404,5,625,33"/>
+<area shape="rect" id="node5" href="$class_lookup_callback.html#a70676e70a85b7fb2679f4dc3bb1313a3" title="Method called on callback." alt="" coords="420,55,609,83"/>
+<area shape="rect" id="node7" href="$class_eventually_persistent_store.html#a49e45b234ec8aa1300cd483d595179d4" title="Complete a background fetch." alt="" coords="356,106,673,134"/>
+<area shape="rect" id="node11" href="$class_eventually_persistent_engine.html#a81c7ef1172d7ebcaf8f73333e0a92edd" title="EventuallyPersistentEngine::initialize" alt="" coords="380,157,649,185"/>
+<area shape="rect" id="node15" href="$class_eventually_persistent_store.html#add682c842b792307fc4d775e69d0d511" title="EventuallyPersistentStore::setVBucketState" alt="" coords="360,207,669,235"/>
+<area shape="rect" id="node9" href="$class_b_g_fetch_callback.html#af109ee7a82516b29aa9e8d266065f664" title="Perform my task." alt="" coords="785,106,983,134"/>
+<area shape="rect" id="node13" href="$ep__engine_8cc.html#a51d4c11d48d7ce41ae6c299da78beb07" title="EvpInitialize" alt="" coords="833,157,935,185"/>
+<area shape="rect" id="node17" href="$class_eventually_persistent_engine.html#a64296190a342ab55e5486d617a41337d" title="EventuallyPersistentEngine::setVBucketState" alt="" coords="723,207,1045,235"/>
+<area shape="rect" id="node23" href="$class_eventually_persistent_engine.html#ac342b14e74c4352f55ac1ca5f64e0f63" title="EventuallyPersistentEngine::tapNotify" alt="" coords="748,258,1020,286"/>
+<area shape="rect" id="node19" href="$ep__engine_8cc.html#a948e461c8f950af46a4ea50a5bbc6ac5" title="setVbucket" alt="" coords="1100,207,1196,235"/>
+<area shape="rect" id="node21" href="$ep__engine_8cc.html#acb3114cabb056ea53ec6be27f400a846" title="EvpUnknownCommand" alt="" coords="1251,207,1429,235"/>
+<area shape="rect" id="node25" href="$ep__engine_8cc.html#aa57359c099d4ad1d06e02c1111c81844" title="EvpTapNotify" alt="" coords="1095,258,1201,286"/>
+</map>

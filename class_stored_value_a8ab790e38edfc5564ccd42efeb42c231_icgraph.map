@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_stored_value.html#acfba8f43eda47f31ca79dcc42180756f" title="Clear the ID (after disk deletion when an object was reused)." alt="" coords="220,5,377,33"/>
+<area shape="rect" id="node5" href="$class_stored_value.html#abcc5c1e8154bbbf3eb465574947b9956" title="Set the ID for this item." alt="" coords="227,55,371,83"/>
+<area shape="rect" id="node7" href="$class_stored_value.html#a1c96da9d1839d6163d729086eb386e7f" title="Set this item to be pending an ID." alt="" coords="200,106,397,134"/>
+</map>

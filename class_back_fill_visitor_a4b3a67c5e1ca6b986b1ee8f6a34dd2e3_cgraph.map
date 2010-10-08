@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_engine.html#adac30f7df7ff80d4a99bdccf8afdd872" title="EventuallyPersistentEngine::performTapOp" alt="" coords="215,30,521,58"/>
+<area shape="rect" id="node5" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="587,5,731,33"/>
+<area shape="rect" id="node7" href="$class_tap_operation.html#aac9471567eb166a8eec8ab863104ab53" title="TapOperation::perform" alt="" coords="572,55,745,83"/>
+</map>

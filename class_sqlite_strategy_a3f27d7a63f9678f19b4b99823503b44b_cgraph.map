@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_sqlite_strategy.html#a9c5544bd5b38b23b3be27575ae5ed7a1" title="SqliteStrategy::close" alt="" coords="287,5,444,33"/>
+<area shape="rect" id="node5" href="$class_sqlite_strategy.html#abc9e8db0fc2b9c8a384fb02acb91df6c" title="SqliteStrategy::destroyStatements" alt="" coords="493,5,744,33"/>
+<area shape="rect" id="node7" href="$class_sqlite_strategy.html#a3c2230d61b0c1dcdeca3900b31b7ce7e" title="SqliteStrategy::destroyMetaStatements" alt="" coords="793,5,1076,33"/>
+</map>

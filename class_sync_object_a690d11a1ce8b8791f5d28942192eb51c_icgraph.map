@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_dispatcher.html#ae64402ad4f9c794868be79db9655e3cb" title="Dispatcher&#39;s main loop." alt="" coords="261,30,387,58"/>
+<area shape="rect" id="node16" href="$class_sync_object.html#ae0d9468865145f44c772339d95b27208" title="SyncObject::wait" alt="" coords="257,81,391,109"/>
+<area shape="rect" id="node18" href="$class_remembering_callback.html#a03540cf6ba123177c4697f3ad5912089" title="Wait for a value to be available." alt="" coords="191,131,457,159"/>
+<area shape="rect" id="node5" href="$dispatcher_8cc.html#a300914a3de319cdefcafa3cf663c67c4" title="launch_dispatcher_thread" alt="" coords="569,30,764,58"/>
+<area shape="rect" id="node7" href="$class_dispatcher.html#a740a58c6547cdf33dc9323d486630ccb" title="Start this dispatcher&#39;s thread." alt="" coords="907,30,1040,58"/>
+<area shape="rect" id="node9" href="$class_eventually_persistent_store.html#af8760ca2c4c5ec7744d99696bf335d45" title="EventuallyPersistentStore::startDispatcher" alt="" coords="1141,5,1445,33"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_store.html#ad0434fcfc782d341e23fab3b5aba2f42" title="EventuallyPersistentStore::startNonIODispatcher" alt="" coords="1121,55,1465,83"/>
+<area shape="rect" id="node11" href="$class_eventually_persistent_store.html#a9017ce338cc89c41417c4a1fe22527f9" title="EventuallyPersistentStore::EventuallyPersistentStore" alt="" coords="1516,30,1887,58"/>
+<area shape="rect" id="node20" href="$class_tap_b_g_fetch_callback.html#a9d28ed3a1fe6958fdbc99683ce98213c" title="Perform my task." alt="" coords="556,81,777,109"/>
+<area shape="rect" id="node22" href="$class_v_key_stat_b_g_fetch_callback.html#aeede421c75379771deb6aad4fa869a57" title="Perform my task." alt="" coords="537,131,796,159"/>
+<area shape="rect" id="node24" href="$class_eventually_persistent_store.html#a49e45b234ec8aa1300cd483d595179d4" title="Complete a background fetch." alt="" coords="508,182,825,210"/>
+<area shape="rect" id="node28" href="$class_getl_extension.html#a2a6cb7bdce0412e30b61fba059828328" title="GetlExtension::executeGetl" alt="" coords="565,233,768,261"/>
+<area shape="rect" id="node26" href="$class_b_g_fetch_callback.html#af109ee7a82516b29aa9e8d266065f664" title="Perform my task." alt="" coords="875,182,1072,210"/>
+<area shape="rect" id="node30" href="$ep__extension_8cc.html#a175bbeb123b986f1ca0a2c5670aef2d3" title="ext_execute" alt="" coords="923,233,1024,261"/>
+</map>

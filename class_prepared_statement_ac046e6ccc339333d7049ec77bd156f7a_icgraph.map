@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_strategic_sqlite3.html#af32f57696a00b58385ddb3fc83582650" title="Overrides del()." alt="" coords="309,5,467,33"/>
+<area shape="rect" id="node5" href="$class_strategic_sqlite3.html#a4bbd9e8f6ff25ead2d71cf89fa9a7dc6" title="StrategicSqlite3::delVBucket" alt="" coords="281,55,495,83"/>
+<area shape="rect" id="node11" href="$class_strategic_sqlite3.html#a976cd88df1c415e2ae6b23e425da5044" title="Overrides dump." alt="" coords="300,106,476,134"/>
+<area shape="rect" id="node15" href="$class_strategic_sqlite3.html#afee539fae83cf94a63c3a04384c1307e" title="Overrides get()." alt="" coords="309,207,467,235"/>
+<area shape="rect" id="node25" href="$class_strategic_sqlite3.html#ad7d854ec9e0a1350c0c3297b05bd714b" title="StrategicSqlite3::listPersistedVbuckets" alt="" coords="249,157,527,185"/>
+<area shape="rect" id="node28" href="$class_strategic_sqlite3.html#a2e3093d65e3f6bdb11176f34de517de7" title="StrategicSqlite3::setVBState" alt="" coords="284,283,492,311"/>
+<area shape="rect" id="node7" href="$class_eventually_persistent_store.html#a2a0c3c327e52e832eaffe08d9bac3d3f" title="EventuallyPersistentStore::completeVBucketDeletion" alt="" coords="577,55,951,83"/>
+<area shape="rect" id="node9" href="$class_v_bucket_deletion_callback.html#ac9b7539febe1f2671ce6065b861e2532" title="Perform my task." alt="" coords="1001,55,1255,83"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_store.html#a1aa4c3f42b5ebece41f96f2a49ce71f5" title="EventuallyPersistentStore::warmup" alt="" coords="636,106,892,134"/>
+<area shape="rect" id="node17" href="$class_tap_b_g_fetch_callback.html#a9d28ed3a1fe6958fdbc99683ce98213c" title="Perform my task." alt="" coords="653,157,875,185"/>
+<area shape="rect" id="node19" href="$class_v_key_stat_b_g_fetch_callback.html#aeede421c75379771deb6aad4fa869a57" title="Perform my task." alt="" coords="635,207,893,235"/>
+<area shape="rect" id="node21" href="$class_eventually_persistent_store.html#a49e45b234ec8aa1300cd483d595179d4" title="Complete a background fetch." alt="" coords="605,258,923,286"/>
+<area shape="rect" id="node23" href="$class_b_g_fetch_callback.html#af109ee7a82516b29aa9e8d266065f664" title="Perform my task." alt="" coords="1029,258,1227,286"/>
+<area shape="rect" id="node30" href="$class_eventually_persistent_store.html#a469cfa86cc2106eefb794a6f8667cb24" title="EventuallyPersistentStore::completeSetVBState" alt="" coords="596,309,932,337"/>
+<area shape="rect" id="node32" href="$class_set_v_b_state_callback.html#a6cc6e41a097defa69d700ddcd97f583a" title="Perform my task." alt="" coords="1020,309,1236,337"/>
+</map>

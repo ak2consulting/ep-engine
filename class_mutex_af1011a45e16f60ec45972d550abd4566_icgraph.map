@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_mutex.html#a82f17ffc2852d2ea1b498b7331e1eebe" title="Mutex::acquire" alt="" coords="196,55,319,83"/>
+<area shape="rect" id="node13" href="$class_sync_object.html#a690d11a1ce8b8791f5d28942192eb51c" title="SyncObject::wait" alt="" coords="191,131,324,159"/>
+<area shape="rect" id="node5" href="$class_multi_lock_holder.html#a8488b8d8b4e167467a5078f034d126cd" title="Relock the series after having manually unlocked it." alt="" coords="425,5,591,33"/>
+<area shape="rect" id="node9" href="$class_lock_holder.html#a9bf29c5d4a63881e976734695e0a592e" title="Relock a lock that was manually unlocked." alt="" coords="441,55,575,83"/>
+<area shape="rect" id="node7" href="$class_multi_lock_holder.html#a31c14a7df66b07f7769090d36f07e2f7" title="Acquire a series of locks." alt="" coords="728,5,973,33"/>
+<area shape="rect" id="node11" href="$class_lock_holder.html#add088dfe56ad2ceb15f02e7b2758cb71" title="Acquire the lock in the given mutex." alt="" coords="761,55,940,83"/>
+<area shape="rect" id="node15" href="$class_dispatcher.html#ae64402ad4f9c794868be79db9655e3cb" title="Dispatcher&#39;s main loop." alt="" coords="445,106,571,134"/>
+<area shape="rect" id="node28" href="$class_sync_object.html#ae0d9468865145f44c772339d95b27208" title="SyncObject::wait" alt="" coords="441,157,575,185"/>
+<area shape="rect" id="node30" href="$class_remembering_callback.html#a03540cf6ba123177c4697f3ad5912089" title="Wait for a value to be available." alt="" coords="375,207,641,235"/>
+<area shape="rect" id="node17" href="$dispatcher_8cc.html#a300914a3de319cdefcafa3cf663c67c4" title="launch_dispatcher_thread" alt="" coords="753,106,948,134"/>
+<area shape="rect" id="node19" href="$class_dispatcher.html#a740a58c6547cdf33dc9323d486630ccb" title="Start this dispatcher&#39;s thread." alt="" coords="1091,106,1224,134"/>
+<area shape="rect" id="node21" href="$class_eventually_persistent_store.html#af8760ca2c4c5ec7744d99696bf335d45" title="EventuallyPersistentStore::startDispatcher" alt="" coords="1325,81,1629,109"/>
+<area shape="rect" id="node25" href="$class_eventually_persistent_store.html#ad0434fcfc782d341e23fab3b5aba2f42" title="EventuallyPersistentStore::startNonIODispatcher" alt="" coords="1305,131,1649,159"/>
+<area shape="rect" id="node23" href="$class_eventually_persistent_store.html#a9017ce338cc89c41417c4a1fe22527f9" title="EventuallyPersistentStore::EventuallyPersistentStore" alt="" coords="1700,106,2071,134"/>
+<area shape="rect" id="node32" href="$class_tap_b_g_fetch_callback.html#a9d28ed3a1fe6958fdbc99683ce98213c" title="Perform my task." alt="" coords="740,157,961,185"/>
+<area shape="rect" id="node34" href="$class_v_key_stat_b_g_fetch_callback.html#aeede421c75379771deb6aad4fa869a57" title="Perform my task." alt="" coords="721,207,980,235"/>
+<area shape="rect" id="node36" href="$class_eventually_persistent_store.html#a49e45b234ec8aa1300cd483d595179d4" title="Complete a background fetch." alt="" coords="692,258,1009,286"/>
+<area shape="rect" id="node40" href="$class_getl_extension.html#a2a6cb7bdce0412e30b61fba059828328" title="GetlExtension::executeGetl" alt="" coords="749,309,952,337"/>
+<area shape="rect" id="node38" href="$class_b_g_fetch_callback.html#af109ee7a82516b29aa9e8d266065f664" title="Perform my task." alt="" coords="1059,258,1256,286"/>
+<area shape="rect" id="node42" href="$ep__extension_8cc.html#a175bbeb123b986f1ca0a2c5670aef2d3" title="ext_execute" alt="" coords="1107,309,1208,337"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ep__engine_8cc.html#a27f3ec2dd08be4cf7886d6181cb1ebf5" title="setFlushParam" alt="" coords="139,182,259,210"/>
+<area shape="rect" id="node33" href="$ep__engine_8cc.html#ade71b97ccab07316c5a50faa160af10b" title="setTapParam" alt="" coords="145,233,252,261"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_engine.html#a9def079ab13eb7b4a41e3a0f64415806" title="EventuallyPersistentEngine::getEpStats" alt="" coords="329,5,612,33"/>
+<area shape="rect" id="node7" href="$class_stored_value.html#ab08a9fb80435b8c962ed309a4e8257c0" title="Get the maximum amount of memory this instance can store." alt="" coords="361,55,580,83"/>
+<area shape="rect" id="node9" href="$ep__engine_8cc.html#a0ecb83b924b9d6ab0210ab48070840be" title="percentOf" alt="" coords="427,106,515,134"/>
+<area shape="rect" id="node11" href="$class_eventually_persistent_engine.html#a6b491ca1b01ade257f72c6659428da91" title="EventuallyPersistentEngine::setBGFetchDelay" alt="" coords="308,157,633,185"/>
+<area shape="rect" id="node15" href="$class_eventually_persistent_engine.html#aa7f57575fd7391195eec7a3321586d74" title="EventuallyPersistentEngine::setMinDataAge" alt="" coords="315,207,627,235"/>
+<area shape="rect" id="node21" href="$class_eventually_persistent_engine.html#a3d0385b884e54ae7d116de7cf73d326b" title="EventuallyPersistentEngine::setQueueAgeCap" alt="" coords="307,258,635,286"/>
+<area shape="rect" id="node26" href="$class_eventually_persistent_engine.html#afbde2dd2c36956abd2c9f717aca11f92" title="EventuallyPersistentEngine::setTxnSize" alt="" coords="328,309,613,337"/>
+<area shape="rect" id="node31" href="$ep__engine_8cc.html#a3cdddc03efa06cdd01a1aba1bc0d0340" title="validate" alt="" coords="433,359,508,387"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_store.html#a872c92041cf65bffcbccbe6d509976b8" title="Set the background fetch delay." alt="" coords="684,157,999,185"/>
+<area shape="rect" id="node17" href="$class_eventually_persistent_store.html#ad61387f0c42959878403cbf880af3695" title="EventuallyPersistentStore::setMinDataAge" alt="" coords="691,207,992,235"/>
+<area shape="rect" id="node19" href="$class_atomic.html#a4cb63ddba4b2a38c9afdbb05fa5113fb" title="Atomic::set" alt="" coords="1048,258,1147,286"/>
+<area shape="rect" id="node23" href="$class_eventually_persistent_store.html#a1b0a19aedfa7197e20abaab8b9342b79" title="EventuallyPersistentStore::setQueueAgeCap" alt="" coords="684,258,999,286"/>
+<area shape="rect" id="node28" href="$class_eventually_persistent_store.html#a0d789b1bb07c397aac3962ed5104d970" title="EventuallyPersistentStore::setTxnSize" alt="" coords="705,309,977,337"/>
+</map>

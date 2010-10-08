@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ep__engine_8cc.html#a6978613380551af0677b42c2d6472cce" title="Helper function to avoid typing in the long cast all over the place." alt="" coords="255,157,345,185"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_engine.html#ac342b14e74c4352f55ac1ca5f64e0f63" title="EventuallyPersistentEngine::tapNotify" alt="" coords="164,207,436,235"/>
+<area shape="rect" id="node7" href="$class_eventually_persistent_engine.html#aba27758916a7a98512e82de4fd8aeee3" title="EventuallyPersistentEngine::flush" alt="" coords="519,81,764,109"/>
+<area shape="rect" id="node21" href="$class_eventually_persistent_engine.html#a501522bf0f7872a80960ffb25e43efcb" title="EventuallyPersistentEngine::itemDelete" alt="" coords="499,131,784,159"/>
+<area shape="rect" id="node23" href="$class_blob.html#ab7e65554d93c6cc358c682b3243bde8a" title="Create a new Blob holding the given data." alt="" coords="597,182,685,210"/>
+<area shape="rect" id="node25" href="$class_eventually_persistent_store.html#a262c5453ebb0a2e7d7e6a4bde2fcb429" title="EventuallyPersistentStore::set" alt="" coords="531,233,752,261"/>
+<area shape="rect" id="node34" href="$class_item.html#a45f854602ab1a9f17b8097ad00b38d3a" title="Item::setVBucketId" alt="" coords="567,283,716,311"/>
+<area shape="rect" id="node36" href="$class_eventually_persistent_store.html#add682c842b792307fc4d775e69d0d511" title="EventuallyPersistentStore::setVBucketState" alt="" coords="487,410,796,438"/>
+<area shape="rect" id="node9" href="$class_eventually_persistent_store.html#af0e3f187d43fd4501b9e17ab2e7e9fa1" title="EventuallyPersistentStore::reset" alt="" coords="879,81,1113,109"/>
+<area shape="rect" id="node11" href="$class_atomic.html#a2015110afb1268ae3306cfc35f186607" title="Atomic::decr" alt="" coords="1280,5,1389,33"/>
+<area shape="rect" id="node13" href="$class_atomic.html#a50d5b1eadc07bf419245a5e11d718486" title="Atomic::get" alt="" coords="1284,55,1385,83"/>
+<area shape="rect" id="node15" href="$class_v_bucket_map.html#a2cb68a5d25154ae4650aeeb8832b110d" title="VBucketMap::getBuckets" alt="" coords="1240,106,1429,134"/>
+<area shape="rect" id="node17" href="$class_eventually_persistent_store.html#a9daff8cc0d0bfdade59dc3a392c71928" title="EventuallyPersistentStore::getVBucket" alt="" coords="1196,157,1473,185"/>
+<area shape="rect" id="node19" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="1524,246,1705,274"/>
+<area shape="rect" id="node27" href="$class_item.html#ace70aa3fc891b5371319eb1d07edfa44" title="Item::getCas" alt="" coords="943,182,1049,210"/>
+<area shape="rect" id="node29" href="$class_item.html#a69a127532c48e377f418623b03be542c" title="Item::getKey" alt="" coords="943,233,1049,261"/>
+<area shape="rect" id="node32" href="$class_item.html#ac1018f0bb01bcfc6f24eb4a3e7401488" title="Item::getVBucketId" alt="" coords="921,283,1071,311"/>
+<area shape="rect" id="node38" href="$class_v_bucket_map.html#a13d1ac51dd1608102603e56dc1bc31a5" title="VBucketMap::addBucket" alt="" coords="903,385,1089,413"/>
+<area shape="rect" id="node41" href="$class_eventually_persistent_engine.html#a5d430e22b38a6a91529e186ecc1ed308" title="EventuallyPersistentEngine::getServerApi" alt="" coords="847,435,1145,463"/>
+<area shape="rect" id="node43" href="$class_dispatcher.html#a434d608a754c810a0746df5a09995f5f" title="Schedule a job to run." alt="" coords="915,486,1077,514"/>
+<area shape="rect" id="node49" href="$class_v_bucket.html#a5af617eff7ee70d402de9d0e473634db" title="VBucket::toString" alt="" coords="925,537,1067,565"/>
+<area shape="rect" id="node45" href="$class_priority.html#a3fbf6ae89b961932f35e0148fce65697" title="Return an integer value that represents a priority." alt="" coords="1243,461,1427,489"/>
+<area shape="rect" id="node47" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="1263,511,1407,539"/>
+</map>

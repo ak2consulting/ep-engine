@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_strategic_sqlite3.html#a976cd88df1c415e2ae6b23e425da5044" title="Overrides dump." alt="" coords="340,5,516,33"/>
+<area shape="rect" id="node7" href="$class_strategic_sqlite3.html#afee539fae83cf94a63c3a04384c1307e" title="Overrides get()." alt="" coords="349,106,507,134"/>
+<area shape="rect" id="node17" href="$class_strategic_sqlite3.html#ad7d854ec9e0a1350c0c3297b05bd714b" title="StrategicSqlite3::listPersistedVbuckets" alt="" coords="289,55,567,83"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#a1aa4c3f42b5ebece41f96f2a49ce71f5" title="EventuallyPersistentStore::warmup" alt="" coords="648,5,904,33"/>
+<area shape="rect" id="node9" href="$class_tap_b_g_fetch_callback.html#a9d28ed3a1fe6958fdbc99683ce98213c" title="Perform my task." alt="" coords="665,55,887,83"/>
+<area shape="rect" id="node11" href="$class_v_key_stat_b_g_fetch_callback.html#aeede421c75379771deb6aad4fa869a57" title="Perform my task." alt="" coords="647,106,905,134"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_store.html#a49e45b234ec8aa1300cd483d595179d4" title="Complete a background fetch." alt="" coords="617,157,935,185"/>
+<area shape="rect" id="node15" href="$class_b_g_fetch_callback.html#af109ee7a82516b29aa9e8d266065f664" title="Perform my task." alt="" coords="984,157,1181,185"/>
+</map>

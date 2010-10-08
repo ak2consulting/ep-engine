@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ep__engine_8cc.html#a6978613380551af0677b42c2d6472cce" title="Helper function to avoid typing in the long cast all over the place." alt="" coords="343,5,433,33"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_engine.html#a6dcd3e76861f9f2c039a625a33a09eb8" title="EventuallyPersistentEngine::handleDisconnect" alt="" coords="223,55,553,83"/>
+<area shape="rect" id="node7" href="$common_8hh.html#a176d29eac969ba0153b53f4e87e1ad26" title="getLogger" alt="" coords="633,30,724,58"/>
+<area shape="rect" id="node9" href="$class_lock_holder.html#a6429be45192a854333d64d25eeeff049" title="Manually unlock a lock." alt="" coords="604,81,753,109"/>
+<area shape="rect" id="node11" href="$class_mutex.html#ad43ff97f225007f2fbb0da2e98676b07" title="Mutex::release" alt="" coords="803,81,923,109"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_atomic.html" title="Atomic\&lt; std::queue\&lt; QueuedItem \&gt; * \&gt;" alt="" coords="620,54,913,82"/>
+<area shape="rect" id="node7" href="$class_atomic.html" title="Atomic\&lt; VBucket * \&gt;" alt="" coords="684,109,849,137"/>
+<area shape="rect" id="node11" href="$class_atomic.html" title="Atomic\&lt; VBucketHolder * \&gt;" alt="" coords="944,186,1155,214"/>
+<area shape="rect" id="node15" href="$class_atomic.html" title="Atomic\&lt; C * \&gt;" alt="" coords="707,322,827,350"/>
+<area shape="rect" id="node19" href="$class_atomic.html" title="Atomic\&lt; int \&gt;" alt="" coords="433,427,551,455"/>
+<area shape="rect" id="node21" href="$class_atomic.html" title="Atomic\&lt; T * \&gt;" alt="" coords="433,262,551,290"/>
+<area shape="rect" id="node31" href="$class_atomic.html" title="Atomic\&lt; time_t \&gt;" alt="" coords="421,478,563,506"/>
+<area shape="rect" id="node33" href="$class_atomic.html" title="Atomic\&lt; hrtime_t \&gt;" alt="" coords="413,529,571,557"/>
+<area shape="rect" id="node35" href="$class_atomic.html" title="Atomic\&lt; std::queue\&lt; T \&gt; * \&gt;" alt="" coords="940,454,1159,482"/>
+<area shape="rect" id="node38" href="$class_atomic.html" title="Atomic\&lt; size_t \&gt;" alt="" coords="423,579,561,607"/>
+<area shape="rect" id="node40" href="$class_atomic.html" title="Atomic\&lt; rel_time_t \&gt;" alt="" coords="409,630,575,658"/>
+<area shape="rect" id="node42" href="$class_atomic.html" title="Atomic\&lt; bool \&gt;" alt="" coords="428,681,556,709"/>
+<area shape="rect" id="node44" href="$class_atomic.html" title="Atomic\&lt; vbucket_state_t \&gt;" alt="" coords="389,731,595,759"/>
+<area shape="rect" id="node46" href="$class_atomic.html" title="Atomic\&lt; uint64_t \&gt;" alt="" coords="415,782,569,810"/>
+<area shape="rect" id="node5" href="$class_atomic_ptr.html" title="AtomicPtr\&lt; std::queue\&lt; QueuedItem \&gt; \&gt;" alt="" coords="1425,97,1727,125"/>
+<area shape="rect" id="node9" href="$class_atomic_ptr.html" title="AtomicPtr\&lt; VBucket \&gt;" alt="" coords="1489,159,1663,187"/>
+<area shape="rect" id="node13" href="$class_atomic_ptr.html" title="AtomicPtr\&lt; VBucketHolder \&gt;" alt="" coords="1467,255,1685,283"/>
+<area shape="rect" id="node17" href="$class_atomic_ptr.html" title="AtomicPtr\&lt; C \&gt;" alt="" coords="1512,325,1640,353"/>
+<area shape="rect" id="node23" href="$class_atomic_ptr.html" title="Atomic pointer." alt="" coords="987,266,1112,294"/>
+<area shape="rect" id="node28" href="$class_atomic_ptr.html" title="AtomicPtr\&lt; std::queue\&lt; T \&gt; \&gt;" alt="" coords="1463,414,1689,442"/>
+</map>

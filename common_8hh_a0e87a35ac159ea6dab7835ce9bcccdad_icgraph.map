@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_compare_tasks_by_due_date.html#af51d385887a36d085eb2d07b550cd455" title="CompareTasksByDueDate::operator()" alt="" coords="123,5,392,33"/>
+<area shape="rect" id="node5" href="$class_dispatcher.html#ae64402ad4f9c794868be79db9655e3cb" title="Dispatcher&#39;s main loop." alt="" coords="195,55,320,83"/>
+<area shape="rect" id="node7" href="$dispatcher_8cc.html#a300914a3de319cdefcafa3cf663c67c4" title="launch_dispatcher_thread" alt="" coords="441,55,636,83"/>
+<area shape="rect" id="node9" href="$class_dispatcher.html#a740a58c6547cdf33dc9323d486630ccb" title="Start this dispatcher&#39;s thread." alt="" coords="685,55,819,83"/>
+<area shape="rect" id="node11" href="$class_eventually_persistent_store.html#af8760ca2c4c5ec7744d99696bf335d45" title="EventuallyPersistentStore::startDispatcher" alt="" coords="888,30,1192,58"/>
+<area shape="rect" id="node15" href="$class_eventually_persistent_store.html#ad0434fcfc782d341e23fab3b5aba2f42" title="EventuallyPersistentStore::startNonIODispatcher" alt="" coords="868,81,1212,109"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_store.html#a9017ce338cc89c41417c4a1fe22527f9" title="EventuallyPersistentStore::EventuallyPersistentStore" alt="" coords="1263,55,1633,83"/>
+</map>

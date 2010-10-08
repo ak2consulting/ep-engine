@@ -1,0 +1,20 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_hash_table.html#a16d784d4d2721908e4d3221eba1d77fa" title="Clear the hash table." alt="" coords="245,5,376,33"/>
+<area shape="rect" id="node5" href="$class_e_p_stats.html#a25b618091cfdd6f63c6f973b2180c944" title="Reset all stats to reasonable values." alt="" coords="255,55,367,83"/>
+<area shape="rect" id="node15" href="$class_v_bucket_holder.html#ac2024c45388b539d23ce6ba50fd57a2b" title="VBucketHolder::setBucketDeletion" alt="" coords="185,258,436,286"/>
+<area shape="rect" id="node17" href="$class_eventually_persistent_store.html#ad61387f0c42959878403cbf880af3695" title="EventuallyPersistentStore::setMinDataAge" alt="" coords="160,157,461,185"/>
+<area shape="rect" id="node28" href="$class_eventually_persistent_store.html#a1b0a19aedfa7197e20abaab8b9342b79" title="EventuallyPersistentStore::setQueueAgeCap" alt="" coords="153,106,468,134"/>
+<area shape="rect" id="node34" href="$class_eventually_persistent_store.html#a0d789b1bb07c397aac3962ed5104d970" title="EventuallyPersistentStore::setTxnSize" alt="" coords="175,207,447,235"/>
+<area shape="rect" id="node41" href="$class_v_bucket_holder.html#ae9b2fc459e08b6636ea0989d94569a40" title="VBucketHolder::VBucketHolder" alt="" coords="196,309,425,337"/>
+<area shape="rect" id="node7" href="$class_eventually_persistent_engine.html#aceddcc971cc21be6b9fede2454666063" title="EventuallyPersistentEngine::resetStats" alt="" coords="564,55,844,83"/>
+<area shape="rect" id="node9" href="$ep__engine_8cc.html#a576061844491fbc2bf1cb6ccfa2880d4" title="EvpResetStats" alt="" coords="1016,55,1131,83"/>
+<area shape="rect" id="node11" href="$class_eventually_persistent_engine.html#a81c7ef1172d7ebcaf8f73333e0a92edd" title="EventuallyPersistentEngine::initialize" alt="" coords="939,106,1208,134"/>
+<area shape="rect" id="node13" href="$ep__engine_8cc.html#a51d4c11d48d7ce41ae6c299da78beb07" title="EvpInitialize" alt="" coords="1257,106,1359,134"/>
+<area shape="rect" id="node19" href="$class_eventually_persistent_engine.html#aa7f57575fd7391195eec7a3321586d74" title="EventuallyPersistentEngine::setMinDataAge" alt="" coords="548,157,860,185"/>
+<area shape="rect" id="node22" href="$ep__engine_8cc.html#a27f3ec2dd08be4cf7886d6181cb1ebf5" title="setFlushParam" alt="" coords="1013,157,1133,185"/>
+<area shape="rect" id="node24" href="$ep__engine_8cc.html#a1422921e437cea5bf774068e5b5fe735" title="setParam" alt="" coords="1267,157,1349,185"/>
+<area shape="rect" id="node26" href="$ep__engine_8cc.html#acb3114cabb056ea53ec6be27f400a846" title="EvpUnknownCommand" alt="" coords="1408,157,1587,185"/>
+<area shape="rect" id="node30" href="$class_eventually_persistent_engine.html#a3d0385b884e54ae7d116de7cf73d326b" title="EventuallyPersistentEngine::setQueueAgeCap" alt="" coords="540,106,868,134"/>
+<area shape="rect" id="node36" href="$class_eventually_persistent_store.html#a9017ce338cc89c41417c4a1fe22527f9" title="EventuallyPersistentStore::EventuallyPersistentStore" alt="" coords="519,207,889,235"/>
+<area shape="rect" id="node38" href="$class_eventually_persistent_engine.html#afbde2dd2c36956abd2c9f717aca11f92" title="EventuallyPersistentEngine::setTxnSize" alt="" coords="561,258,847,286"/>
+</map>

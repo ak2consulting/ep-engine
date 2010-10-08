@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_engine.html#a7d812924813dcfc5ba7609923dc2e31b" title="EventuallyPersistentEngine::createTapQueue" alt="" coords="196,30,516,58"/>
+<area shape="rect" id="node9" href="$ep__engine_8cc.html#a6978613380551af0677b42c2d6472cce" title="Helper function to avoid typing in the long cast all over the place." alt="" coords="311,81,401,109"/>
+<area shape="rect" id="node5" href="$common_8hh.html#a176d29eac969ba0153b53f4e87e1ad26" title="getLogger" alt="" coords="592,5,683,33"/>
+<area shape="rect" id="node7" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="565,55,709,83"/>
+</map>

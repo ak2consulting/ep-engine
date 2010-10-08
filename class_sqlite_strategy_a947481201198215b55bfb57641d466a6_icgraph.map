@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_strategic_sqlite3.html#a4bbd9e8f6ff25ead2d71cf89fa9a7dc6" title="StrategicSqlite3::delVBucket" alt="" coords="272,5,485,33"/>
+<area shape="rect" id="node9" href="$class_strategic_sqlite3.html#a976cd88df1c415e2ae6b23e425da5044" title="Overrides dump." alt="" coords="291,55,467,83"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#a2a0c3c327e52e832eaffe08d9bac3d3f" title="EventuallyPersistentStore::completeVBucketDeletion" alt="" coords="535,5,908,33"/>
+<area shape="rect" id="node7" href="$class_v_bucket_deletion_callback.html#ac9b7539febe1f2671ce6065b861e2532" title="Perform my task." alt="" coords="959,5,1212,33"/>
+<area shape="rect" id="node11" href="$class_eventually_persistent_store.html#a1aa4c3f42b5ebece41f96f2a49ce71f5" title="EventuallyPersistentStore::warmup" alt="" coords="593,55,849,83"/>
+</map>

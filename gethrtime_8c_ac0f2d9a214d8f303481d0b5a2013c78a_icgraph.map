@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_v_bucket.html#a7bd89bc578b2d206c005d3d43f71d732" title="VBucket::addPendingOp" alt="" coords="212,5,396,33"/>
+<area shape="rect" id="node5" href="$class_tap_b_g_fetch_callback.html#a9d28ed3a1fe6958fdbc99683ce98213c" title="Perform my task." alt="" coords="193,55,415,83"/>
+<area shape="rect" id="node7" href="$class_b_g_fetch_callback.html#af109ee7a82516b29aa9e8d266065f664" title="Perform my task." alt="" coords="512,131,709,159"/>
+<area shape="rect" id="node9" href="$class_eventually_persistent_store.html#a49e45b234ec8aa1300cd483d595179d4" title="Complete a background fetch." alt="" coords="145,157,463,185"/>
+<area shape="rect" id="node12" href="$ep__engine_8cc.html#ac8f6345d9c70076926d89e278e135757" title="doDispatcherStat" alt="" coords="236,207,372,235"/>
+<area shape="rect" id="node14" href="$class_dispatcher.html#ae64402ad4f9c794868be79db9655e3cb" title="Dispatcher&#39;s main loop." alt="" coords="241,258,367,286"/>
+<area shape="rect" id="node27" href="$class_block_timer.html#a47fc50463a1d9d0758b9aa06a06a39b7" title="BlockTimer::~BlockTimer" alt="" coords="208,309,400,337"/>
+<area shape="rect" id="node16" href="$dispatcher_8cc.html#a300914a3de319cdefcafa3cf663c67c4" title="launch_dispatcher_thread" alt="" coords="513,258,708,286"/>
+<area shape="rect" id="node18" href="$class_dispatcher.html#a740a58c6547cdf33dc9323d486630ccb" title="Start this dispatcher&#39;s thread." alt="" coords="757,258,891,286"/>
+<area shape="rect" id="node20" href="$class_eventually_persistent_store.html#af8760ca2c4c5ec7744d99696bf335d45" title="EventuallyPersistentStore::startDispatcher" alt="" coords="960,233,1264,261"/>
+<area shape="rect" id="node24" href="$class_eventually_persistent_store.html#ad0434fcfc782d341e23fab3b5aba2f42" title="EventuallyPersistentStore::startNonIODispatcher" alt="" coords="940,283,1284,311"/>
+<area shape="rect" id="node22" href="$class_eventually_persistent_store.html#a9017ce338cc89c41417c4a1fe22527f9" title="EventuallyPersistentStore::EventuallyPersistentStore" alt="" coords="1335,258,1705,286"/>
+</map>

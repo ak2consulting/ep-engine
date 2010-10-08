@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_callback.html" title="Callback\&lt; T \&gt;" alt="" coords="5,5,123,33"/>
+<area shape="rect" id="node3" href="$class_remembering_callback.html" title="Threadsafe callback implementation that just captures the value." alt="" coords="172,5,383,33"/>
+</map>

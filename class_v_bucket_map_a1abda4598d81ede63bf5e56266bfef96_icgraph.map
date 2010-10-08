@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_store.html#ab91fc6aee88dbb8abcb21538740cb98a" title="EventuallyPersistentStore::deleteVBucket" alt="" coords="267,5,565,33"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_engine.html#a6f703485e33d95adc2aab023c4989500" title="EventuallyPersistentEngine::deleteVBucket" alt="" coords="613,5,923,33"/>
+<area shape="rect" id="node7" href="$ep__engine_8cc.html#a444da8477401c35ec6946b21deb4236d" title="deleteVBucket" alt="" coords="972,5,1089,33"/>
+<area shape="rect" id="node9" href="$ep__engine_8cc.html#acb3114cabb056ea53ec6be27f400a846" title="EvpUnknownCommand" alt="" coords="1139,5,1317,33"/>
+</map>

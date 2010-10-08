@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_histogram.html#ab8bc0b2e54ad4a00a1c3d96bd44ba47f" title="Add a value to this histogram." alt="" coords="245,5,371,33"/>
+<area shape="rect" id="node5" href="$config__static_8h.html#ac0f2d9a214d8f303481d0b5a2013c78a" title="gethrtime" alt="" coords="264,55,352,83"/>
+<area shape="rect" id="node7" href="$gethrtime_8c.html#a3e29bd6885708a22da838cf7afadc358" title="clock_gettime" alt="" coords="420,55,535,83"/>
+<area shape="rect" id="node9" href="$gethrtime_8c.html#a3c1b03528626cf799b363f0f51786d3b" title="mach_absolute_difference" alt="" coords="584,55,781,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$class_callback.html" title="Callback\&lt; GetValue \&gt;" alt="" coords="7,30,175,58"/>
+<area shape="rect" id="node3" href="$class_load_storage_k_v_pair_callback.html" title="Helper class used to insert items into the storage by using the KVStore::dump method to load items fr..." alt="" coords="224,5,429,33"/>
+<area shape="rect" id="node5" href="$class_lookup_callback.html" title="LookupCallback" alt="" coords="264,55,389,83"/>
+</map>

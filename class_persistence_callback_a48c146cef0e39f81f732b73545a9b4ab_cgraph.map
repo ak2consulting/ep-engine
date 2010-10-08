@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_queued_item.html#a86a0531b1aab718ce060da1988a2d53d" title="QueuedItem::getKey" alt="" coords="332,5,492,33"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#a9daff8cc0d0bfdade59dc3a392c71928" title="EventuallyPersistentStore::getVBucket" alt="" coords="273,55,551,83"/>
+<area shape="rect" id="node9" href="$class_queued_item.html#afbe4b8470c4b7a8b96a9b7fdccbd3e47" title="QueuedItem::getVBucketId" alt="" coords="311,106,513,134"/>
+<area shape="rect" id="node7" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="601,55,783,83"/>
+</map>

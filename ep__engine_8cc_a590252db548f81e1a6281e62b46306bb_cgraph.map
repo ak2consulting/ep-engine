@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_engine.html#a92f4a1dd817d28f241db17fa5445970c" title="EventuallyPersistentEngine::evictKey" alt="" coords="133,5,403,33"/>
+<area shape="rect" id="node11" href="$common_8hh.html#a176d29eac969ba0153b53f4e87e1ad26" title="getLogger" alt="" coords="223,55,313,83"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#ac20ed8956ac6d1bef06de7f5481a91a9" title="EventuallyPersistentStore::evictKey" alt="" coords="451,5,709,33"/>
+<area shape="rect" id="node7" href="$class_eventually_persistent_store.html#a9daff8cc0d0bfdade59dc3a392c71928" title="EventuallyPersistentStore::getVBucket" alt="" coords="759,5,1036,33"/>
+<area shape="rect" id="node9" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="1087,5,1268,33"/>
+</map>

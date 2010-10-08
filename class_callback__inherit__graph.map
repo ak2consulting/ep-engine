@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_callback.html" title="Callback\&lt; mutation_result \&gt;" alt="" coords="319,5,532,33"/>
+<area shape="rect" id="node7" href="$class_callback.html" title="Callback\&lt; GetValue \&gt;" alt="" coords="341,106,509,134"/>
+<area shape="rect" id="node13" href="$class_callback.html" title="Callback\&lt; int \&gt;" alt="" coords="363,55,488,83"/>
+<area shape="rect" id="node16" href="$class_callback.html" title="Callback\&lt; T \&gt;" alt="" coords="367,161,484,189"/>
+<area shape="rect" id="node5" href="$class_persistence_callback.html" title="PersistenceCallback" alt="" coords="613,13,768,41"/>
+<area shape="rect" id="node9" href="$class_load_storage_k_v_pair_callback.html" title="Helper class used to insert items into the storage by using the KVStore::dump method to load items fr..." alt="" coords="588,67,793,95"/>
+<area shape="rect" id="node11" href="$class_lookup_callback.html" title="LookupCallback" alt="" coords="628,118,753,146"/>
+<area shape="rect" id="node18" href="$class_remembering_callback.html" title="Threadsafe callback implementation that just captures the value." alt="" coords="585,169,796,197"/>
+</map>

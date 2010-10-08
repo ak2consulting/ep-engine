@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_store.html#a469cfa86cc2106eefb794a6f8667cb24" title="EventuallyPersistentStore::completeSetVBState" alt="" coords="271,55,607,83"/>
+<area shape="rect" id="node5" href="$common_8hh.html#a176d29eac969ba0153b53f4e87e1ad26" title="getLogger" alt="" coords="716,5,807,33"/>
+<area shape="rect" id="node7" href="$class_dispatcher.html#a434d608a754c810a0746df5a09995f5f" title="Schedule a job to run." alt="" coords="680,55,843,83"/>
+<area shape="rect" id="node13" href="$class_strategic_sqlite3.html#a2e3093d65e3f6bdb11176f34de517de7" title="StrategicSqlite3::setVBState" alt="" coords="657,157,865,185"/>
+<area shape="rect" id="node9" href="$class_priority.html#a3fbf6ae89b961932f35e0148fce65697" title="Return an integer value that represents a priority." alt="" coords="960,5,1144,33"/>
+<area shape="rect" id="node11" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="980,55,1124,83"/>
+<area shape="rect" id="node15" href="$class_prepared_statement.html#a7f6a092cbc3bf92b579eb2ec9c9d1a8f" title="Bind a null&#45;terminated string parameter to a binding in this statement." alt="" coords="957,106,1147,134"/>
+<area shape="rect" id="node17" href="$class_prepared_statement.html#a9e609de59008aa6977fe6952a75b10f3" title="Execute a prepared statement that does not return results." alt="" coords="947,157,1157,185"/>
+<area shape="rect" id="node19" href="$class_sqlite_strategy.html#a81ae98593cfd6e6c78d487d7a9c4286b" title="SqliteStrategy::getSetVBucketStateST" alt="" coords="915,207,1189,235"/>
+<area shape="rect" id="node21" href="$class_prepared_statement.html#ac046e6ccc339333d7049ec77bd156f7a" title="Reset the bindings." alt="" coords="956,258,1148,286"/>
+</map>

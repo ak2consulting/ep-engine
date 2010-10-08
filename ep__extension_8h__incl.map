@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node9" href="$ep_8hh.html" title="ep.hh" alt="" coords="941,83,1000,111"/>
+<area shape="rect" id="node39" href="$stats_8hh.html" title="stats.hh" alt="" coords="1213,315,1288,343"/>
+<area shape="rect" id="node62" href="$atomic_8hh.html" title="atomic.hh" alt="" coords="960,470,1048,498"/>
+<area shape="rect" id="node71" href="$locks_8hh.html" title="locks.hh" alt="" coords="437,625,515,653"/>
+<area shape="rect" id="node106" href="$sqlite-kvstore_8hh.html" title="sqlite&#45;kvstore.hh" alt="" coords="1808,315,1941,343"/>
+<area shape="rect" id="node132" href="$stored-value_8hh.html" title="stored&#45;value.hh" alt="" coords="1107,238,1232,266"/>
+<area shape="rect" id="node143" href="$dispatcher_8hh.html" title="dispatcher.hh" alt="" coords="448,547,560,575"/>
+<area shape="rect" id="node152" href="$vbucket_8hh.html" title="vbucket.hh" alt="" coords="1464,161,1560,189"/>
+<area shape="rect" id="node42" href="$common_8hh.html" title="common.hh" alt="" coords="1117,779,1219,807"/>
+<area shape="rect" id="node97" href="$histo_8hh.html" title="histo.hh" alt="" coords="1157,393,1232,421"/>
+<area shape="rect" id="node68" href="$callbacks_8hh.html" title="callbacks.hh" alt="" coords="1027,547,1131,575"/>
+<area shape="rect" id="node77" href="$mutex_8hh.html" title="mutex.hh" alt="" coords="829,702,915,730"/>
+<area shape="rect" id="node87" href="$syncobject_8hh.html" title="syncobject.hh" alt="" coords="577,702,692,730"/>
+<area shape="rect" id="node113" href="$sqlite-pst_8hh.html" title="sqlite&#45;pst.hh" alt="" coords="1905,470,2009,498"/>
+<area shape="rect" id="node119" href="$sqlite-strategies_8hh.html" title="sqlite&#45;strategies.hh" alt="" coords="1883,393,2032,421"/>
+<area shape="rect" id="node124" href="$item_8hh.html" title="item.hh" alt="" coords="1459,393,1531,421"/>
+<area shape="rect" id="node149" href="$priority_8hh.html" title="priority.hh" alt="" coords="1040,702,1131,730"/>
+</map>

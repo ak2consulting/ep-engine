@@ -1,0 +1,31 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$locks_8hh.html" title="locks.hh" alt="" coords="728,83,805,111"/>
+<area shape="rect" id="node5" href="$callbacks_8hh.html" title="callbacks.hh" alt="" coords="587,161,691,189"/>
+<area shape="rect" id="node7" href="$atomic_8hh.html" title="atomic.hh" alt="" coords="589,238,677,266"/>
+<area shape="rect" id="node11" href="$ep_8hh.html" title="ep.hh" alt="" coords="685,625,744,653"/>
+<area shape="rect" id="node13" href="$ep_8cc.html" title="ep.cc" alt="" coords="1309,857,1365,885"/>
+<area shape="rect" id="node18" href="$ep__engine_8h.html" title="ep_engine.h" alt="" coords="1160,779,1264,807"/>
+<area shape="rect" id="node45" href="$stored-value_8hh.html" title="stored&#45;value.hh" alt="" coords="176,470,301,498"/>
+<area shape="rect" id="node65" href="$item_8hh.html" title="item.hh" alt="" coords="303,393,375,421"/>
+<area shape="rect" id="node80" href="$dispatcher_8hh.html" title="dispatcher.hh" alt="" coords="1325,547,1437,575"/>
+<area shape="rect" id="node9" href="$stats_8hh.html" title="stats.hh" alt="" coords="584,393,659,421"/>
+<area shape="rect" id="node48" href="$vbucket_8hh.html" title="vbucket.hh" alt="" coords="5,547,101,575"/>
+<area shape="rect" id="node61" href="$histo_8hh.html" title="histo.hh" alt="" coords="521,315,596,343"/>
+<area shape="rect" id="node56" href="$item__pager_8hh.html" title="item_pager.hh" alt="" coords="1108,625,1225,653"/>
+<area shape="rect" id="node15" href="$flusher_8hh.html" title="flusher.hh" alt="" coords="1401,702,1489,730"/>
+<area shape="rect" id="node32" href="$ep__extension_8h.html" title="ep_extension.h" alt="" coords="863,702,985,730"/>
+<area shape="rect" id="node37" href="$item__pager_8cc.html" title="item_pager.cc" alt="" coords="1060,702,1175,730"/>
+<area shape="rect" id="node39" href="$sizes_8cc.html" title="sizes.cc" alt="" coords="232,702,304,730"/>
+<area shape="rect" id="node41" href="$sqlite-eval_8cc.html" title="sqlite&#45;eval.cc" alt="" coords="508,702,617,730"/>
+<area shape="rect" id="node43" href="$sqlite-strategies_8cc.html" title="sqlite&#45;strategies.cc" alt="" coords="641,702,788,730"/>
+<area shape="rect" id="node29" href="$flusher_8cc.html" title="flusher.cc" alt="" coords="1425,779,1511,807"/>
+<area shape="rect" id="node21" href="$ep__engine_8cc.html" title="ep_engine.cc" alt="" coords="1157,857,1267,885"/>
+<area shape="rect" id="node23" href="$sqlite-kvstore_8cc.html" title="sqlite&#45;kvstore.cc" alt="" coords="779,857,909,885"/>
+<area shape="rect" id="node25" href="$tapconnection_8cc.html" title="tapconnection.cc" alt="" coords="1485,857,1621,885"/>
+<area shape="rect" id="node27" href="$vbucket_8cc.html" title="vbucket.cc" alt="" coords="215,857,308,885"/>
+<area shape="rect" id="node35" href="$ep__extension_8cc.html" title="ep_extension.cc" alt="" coords="863,779,991,807"/>
+<area shape="rect" id="node54" href="$stored-value_8cc.html" title="stored&#45;value.cc" alt="" coords="176,547,299,575"/>
+<area shape="rect" id="node67" href="$sqlite-kvstore_8hh.html" title="sqlite&#45;kvstore.hh" alt="" coords="424,547,557,575"/>
+<area shape="rect" id="node74" href="$item_8cc.html" title="item.cc" alt="" coords="376,470,445,498"/>
+<area shape="rect" id="node82" href="$dispatcher_8cc.html" title="dispatcher.cc" alt="" coords="1351,625,1460,653"/>
+</map>

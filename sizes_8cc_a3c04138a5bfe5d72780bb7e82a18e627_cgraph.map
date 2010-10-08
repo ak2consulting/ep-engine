@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$sizes_8cc.html#a9a12db83ed08b507f4c9a6591d6bf7b4" title="display" alt="" coords="151,131,220,159"/>
+<area shape="rect" id="node5" href="$class_stored_value.html#a2b2ce73c52fd67b63debc2104829818a" title="Get the size of a StoredValue object." alt="" coords="109,182,261,210"/>
+<area shape="rect" id="node7" href="$class_stored_value.html#aa8788522ed15059ade9bd75a46246709" title="Get the current amount of of data stored." alt="" coords="321,5,532,33"/>
+<area shape="rect" id="node11" href="$class_stored_value.html#ab08a9fb80435b8c962ed309a4e8257c0" title="Get the maximum amount of memory this instance can store." alt="" coords="317,55,536,83"/>
+<area shape="rect" id="node13" href="$class_stored_value.html#a452b60056dee384b250094c15bdb187b" title="Get the total size of all items in the cache." alt="" coords="311,106,543,134"/>
+<area shape="rect" id="node16" href="$class_stored_value.html#a2820ceb8daf99a8dab5bf06db1686bd0" title="Mark this item as clean." alt="" coords="335,157,519,185"/>
+<area shape="rect" id="node18" href="$class_stored_value.html#a2f0c9872c42fe61eb6ba7da7654b9279" title="Mark this item as needing to be persisted." alt="" coords="337,207,516,235"/>
+<area shape="rect" id="node20" href="$class_stored_value.html#a58ea15c18db054de2e1f5fd28019dcd0" title="Set the maximum amount of data this instance can store." alt="" coords="319,258,535,286"/>
+<area shape="rect" id="node22" href="$class_stored_value.html#ac3872d62bf3b5e42e30d062b90a75e86" title="Get the total size of this item." alt="" coords="359,309,495,337"/>
+<area shape="rect" id="node9" href="$class_atomic.html#a50d5b1eadc07bf419245a5e11d718486" title="Atomic::get" alt="" coords="632,55,733,83"/>
+<area shape="rect" id="node24" href="$class_stored_value.html#ac450ecb78542a05cfa1f3b337e2de947" title="Get the length of the key." alt="" coords="592,283,773,311"/>
+<area shape="rect" id="node26" href="$class_stored_value.html#a983ecc4407bad25ce461e9e8348037e1" title="True if this object is logically deleted." alt="" coords="596,334,769,362"/>
+</map>

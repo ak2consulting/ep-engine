@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_strategic_sqlite3.html#a4bbd9e8f6ff25ead2d71cf89fa9a7dc6" title="StrategicSqlite3::delVBucket" alt="" coords="243,5,456,33"/>
+<area shape="rect" id="node9" href="$class_strategic_sqlite3.html#a976cd88df1c415e2ae6b23e425da5044" title="Overrides dump." alt="" coords="261,55,437,83"/>
+<area shape="rect" id="node13" href="$class_strategic_sqlite3.html#a2e3093d65e3f6bdb11176f34de517de7" title="StrategicSqlite3::setVBState" alt="" coords="245,106,453,134"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#a2a0c3c327e52e832eaffe08d9bac3d3f" title="EventuallyPersistentStore::completeVBucketDeletion" alt="" coords="505,5,879,33"/>
+<area shape="rect" id="node7" href="$class_v_bucket_deletion_callback.html#ac9b7539febe1f2671ce6065b861e2532" title="Perform my task." alt="" coords="929,5,1183,33"/>
+<area shape="rect" id="node11" href="$class_eventually_persistent_store.html#a1aa4c3f42b5ebece41f96f2a49ce71f5" title="EventuallyPersistentStore::warmup" alt="" coords="564,55,820,83"/>
+<area shape="rect" id="node15" href="$class_eventually_persistent_store.html#a469cfa86cc2106eefb794a6f8667cb24" title="EventuallyPersistentStore::completeSetVBState" alt="" coords="524,106,860,134"/>
+<area shape="rect" id="node17" href="$class_set_v_b_state_callback.html#a6cc6e41a097defa69d700ddcd97f583a" title="Perform my task." alt="" coords="948,106,1164,134"/>
+</map>

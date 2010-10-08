@@ -1,0 +1,22 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_v_bucket_map.html#a13d1ac51dd1608102603e56dc1bc31a5" title="VBucketMap::addBucket" alt="" coords="507,5,693,33"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#a0d789b1bb07c397aac3962ed5104d970" title="EventuallyPersistentStore::setTxnSize" alt="" coords="464,55,736,83"/>
+<area shape="rect" id="node9" href="$class_eventually_persistent_store.html#af8760ca2c4c5ec7744d99696bf335d45" title="EventuallyPersistentStore::startDispatcher" alt="" coords="448,106,752,134"/>
+<area shape="rect" id="node38" href="$class_eventually_persistent_store.html#a150d93d99ae218fd773efb0434168518" title="EventuallyPersistentStore::startFlusher" alt="" coords="460,207,740,235"/>
+<area shape="rect" id="node42" href="$class_eventually_persistent_store.html#ad0434fcfc782d341e23fab3b5aba2f42" title="EventuallyPersistentStore::startNonIODispatcher" alt="" coords="428,157,772,185"/>
+<area shape="rect" id="node7" href="$class_atomic.html#a4cb63ddba4b2a38c9afdbb05fa5113fb" title="Atomic::set" alt="" coords="839,55,937,83"/>
+<area shape="rect" id="node11" href="$class_dispatcher.html#a740a58c6547cdf33dc9323d486630ccb" title="Start this dispatcher&#39;s thread." alt="" coords="821,131,955,159"/>
+<area shape="rect" id="node13" href="$dispatcher_8cc.html#a300914a3de319cdefcafa3cf663c67c4" title="launch_dispatcher_thread" alt="" coords="1004,131,1199,159"/>
+<area shape="rect" id="node15" href="$common_8hh.html#a176d29eac969ba0153b53f4e87e1ad26" title="getLogger" alt="" coords="1452,55,1543,83"/>
+<area shape="rect" id="node17" href="$class_dispatcher.html#ae64402ad4f9c794868be79db9655e3cb" title="Dispatcher&#39;s main loop." alt="" coords="1248,157,1373,185"/>
+<area shape="rect" id="node19" href="$config__static_8h.html#ac0f2d9a214d8f303481d0b5a2013c78a" title="gethrtime" alt="" coords="1453,106,1541,134"/>
+<area shape="rect" id="node26" href="$common_8hh.html#a0e87a35ac159ea6dab7835ce9bcccdad" title="less_tv" alt="" coords="1464,157,1531,185"/>
+<area shape="rect" id="node28" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="1425,207,1569,235"/>
+<area shape="rect" id="node30" href="$class_lock_holder.html#a6429be45192a854333d64d25eeeff049" title="Manually unlock a lock." alt="" coords="1423,258,1572,286"/>
+<area shape="rect" id="node34" href="$class_sync_object.html#a690d11a1ce8b8791f5d28942192eb51c" title="SyncObject::wait" alt="" coords="1431,309,1564,337"/>
+<area shape="rect" id="node21" href="$gethrtime_8c.html#a3e29bd6885708a22da838cf7afadc358" title="clock_gettime" alt="" coords="1632,106,1747,134"/>
+<area shape="rect" id="node23" href="$gethrtime_8c.html#a3c1b03528626cf799b363f0f51786d3b" title="mach_absolute_difference" alt="" coords="1805,106,2003,134"/>
+<area shape="rect" id="node32" href="$class_mutex.html#ad43ff97f225007f2fbb0da2e98676b07" title="Mutex::release" alt="" coords="1629,258,1749,286"/>
+<area shape="rect" id="node36" href="$class_mutex.html#af1011a45e16f60ec45972d550abd4566" title="Mutex::setHolder" alt="" coords="1621,309,1757,337"/>
+<area shape="rect" id="node40" href="$class_flusher.html#adab9e822ca7b56f507aa038768318ee6" title="Flusher::start" alt="" coords="833,207,943,235"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_engine.html#afb5b28a46694245a056d56af901642bc" title="EventuallyPersistentEngine::get" alt="" coords="123,101,357,129"/>
+<area shape="rect" id="node23" href="$ep__engine_8cc.html#a6978613380551af0677b42c2d6472cce" title="Helper function to avoid typing in the long cast all over the place." alt="" coords="195,151,285,179"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#a3b96f2a8cb45ed129450a8d350c0a2ae" title="Retrieve a value." alt="" coords="405,101,629,129"/>
+<area shape="rect" id="node7" href="$class_eventually_persistent_store.html#a817f100de5d1a277c067dca9d9e41b4c" title="Enqueue a background fetch for a key." alt="" coords="691,69,944,97"/>
+<area shape="rect" id="node19" href="$class_eventually_persistent_store.html#a9daff8cc0d0bfdade59dc3a392c71928" title="EventuallyPersistentStore::getVBucket" alt="" coords="679,131,956,159"/>
+<area shape="rect" id="node9" href="$class_atomic.html#a50d5b1eadc07bf419245a5e11d718486" title="Atomic::get" alt="" coords="1047,5,1148,33"/>
+<area shape="rect" id="node11" href="$common_8hh.html#a176d29eac969ba0153b53f4e87e1ad26" title="getLogger" alt="" coords="1052,55,1143,83"/>
+<area shape="rect" id="node13" href="$class_dispatcher.html#a434d608a754c810a0746df5a09995f5f" title="Schedule a job to run." alt="" coords="1016,106,1179,134"/>
+<area shape="rect" id="node15" href="$class_priority.html#a3fbf6ae89b961932f35e0148fce65697" title="Return an integer value that represents a priority." alt="" coords="1237,81,1421,109"/>
+<area shape="rect" id="node17" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="1257,131,1401,159"/>
+<area shape="rect" id="node21" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="1007,157,1188,185"/>
+</map>

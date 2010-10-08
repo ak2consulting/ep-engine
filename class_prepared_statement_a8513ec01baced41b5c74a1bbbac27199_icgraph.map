@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_strategic_sqlite3.html#a976cd88df1c415e2ae6b23e425da5044" title="Overrides dump." alt="" coords="299,18,475,46"/>
+<area shape="rect" id="node7" href="$class_strategic_sqlite3.html#afee539fae83cf94a63c3a04384c1307e" title="Overrides get()." alt="" coords="308,94,465,122"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_store.html#a1aa4c3f42b5ebece41f96f2a49ce71f5" title="EventuallyPersistentStore::warmup" alt="" coords="555,5,811,33"/>
+<area shape="rect" id="node9" href="$class_tap_b_g_fetch_callback.html#a9d28ed3a1fe6958fdbc99683ce98213c" title="Perform my task." alt="" coords="572,55,793,83"/>
+<area shape="rect" id="node11" href="$class_v_key_stat_b_g_fetch_callback.html#aeede421c75379771deb6aad4fa869a57" title="Perform my task." alt="" coords="553,106,812,134"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_store.html#a49e45b234ec8aa1300cd483d595179d4" title="Complete a background fetch." alt="" coords="524,157,841,185"/>
+<area shape="rect" id="node15" href="$class_b_g_fetch_callback.html#af109ee7a82516b29aa9e8d266065f664" title="Perform my task." alt="" coords="891,157,1088,185"/>
+</map>

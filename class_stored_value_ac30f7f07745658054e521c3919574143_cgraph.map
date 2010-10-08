@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_stored_value.html#a94cd195869b909f927393ea532cc5466" title="If we&#39;re still in a pending ID state, clear the state." alt="" coords="211,5,421,33"/>
+<area shape="rect" id="node5" href="$class_stored_value.html#aa819041d99dbb7b34d01551d1295ac2e" title="Is this item currently waiting to receive a new ID?" alt="" coords="471,5,657,33"/>
+</map>

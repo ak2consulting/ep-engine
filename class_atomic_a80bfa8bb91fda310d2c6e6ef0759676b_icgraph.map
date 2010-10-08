@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_atomic.html#aeccb56c75f0079a9eedb377d88aecee6" title="Atomic\&lt; uint64_t \&gt;::setIfBigger" alt="" coords="155,5,392,33"/>
+<area shape="rect" id="node5" href="$class_atomic.html#a8aaf87470672c0e529e9dc5273871742" title="Atomic\&lt; uint64_t \&gt;::setIfLess" alt="" coords="163,55,384,83"/>
+<area shape="rect" id="node7" href="$class_atomic.html#a1e02f703b037b447cc0e8779716dad55" title="Atomic\&lt; uint64_t \&gt;::swap" alt="" coords="175,106,372,134"/>
+<area shape="rect" id="node9" href="$class_atomic.html#abd1e4382ff6bff6c05381889a2b9a090" title="Atomic\&lt; uint64_t \&gt;::swapIfNot" alt="" coords="159,157,388,185"/>
+</map>

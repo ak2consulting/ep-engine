@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_store.html#ab91fc6aee88dbb8abcb21538740cb98a" title="EventuallyPersistentStore::deleteVBucket" alt="" coords="163,15,461,43"/>
+<area shape="rect" id="node11" href="$class_eventually_persistent_store.html#af0e3f187d43fd4501b9e17ab2e7e9fa1" title="EventuallyPersistentStore::reset" alt="" coords="195,69,429,97"/>
+<area shape="rect" id="node25" href="$class_v_bucket.html#afb824c47c7d06d2bbe40696a5b3d39b3" title="VBucket::~VBucket" alt="" coords="236,119,388,147"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_engine.html#a6f703485e33d95adc2aab023c4989500" title="EventuallyPersistentEngine::deleteVBucket" alt="" coords="509,9,819,37"/>
+<area shape="rect" id="node7" href="$ep__engine_8cc.html#a444da8477401c35ec6946b21deb4236d" title="deleteVBucket" alt="" coords="945,5,1063,33"/>
+<area shape="rect" id="node9" href="$ep__engine_8cc.html#acb3114cabb056ea53ec6be27f400a846" title="EvpUnknownCommand" alt="" coords="1189,5,1368,33"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_engine.html#aba27758916a7a98512e82de4fd8aeee3" title="EventuallyPersistentEngine::flush" alt="" coords="541,69,787,97"/>
+<area shape="rect" id="node21" href="$class_eventually_persistent_engine.html#a81c7ef1172d7ebcaf8f73333e0a92edd" title="EventuallyPersistentEngine::initialize" alt="" coords="529,131,799,159"/>
+<area shape="rect" id="node15" href="$ep__engine_8cc.html#ab3daa6811907b23f830357f86c93e41f" title="EvpFlush" alt="" coords="963,55,1045,83"/>
+<area shape="rect" id="node17" href="$class_eventually_persistent_engine.html#ac342b14e74c4352f55ac1ca5f64e0f63" title="EventuallyPersistentEngine::tapNotify" alt="" coords="868,106,1140,134"/>
+<area shape="rect" id="node19" href="$ep__engine_8cc.html#aa57359c099d4ad1d06e02c1111c81844" title="EvpTapNotify" alt="" coords="1225,106,1332,134"/>
+<area shape="rect" id="node23" href="$ep__engine_8cc.html#a51d4c11d48d7ce41ae6c299da78beb07" title="EvpInitialize" alt="" coords="953,157,1055,185"/>
+</map>

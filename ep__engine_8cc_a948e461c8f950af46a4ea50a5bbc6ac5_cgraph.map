@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$common_8hh.html#adc37afe8902889256d57848f4c88663c" title="parseUint16" alt="" coords="259,55,363,83"/>
+<area shape="rect" id="node5" href="$class_eventually_persistent_engine.html#a64296190a342ab55e5486d617a41337d" title="EventuallyPersistentEngine::setVBucketState" alt="" coords="149,106,472,134"/>
+<area shape="rect" id="node7" href="$class_eventually_persistent_store.html#add682c842b792307fc4d775e69d0d511" title="EventuallyPersistentStore::setVBucketState" alt="" coords="521,106,831,134"/>
+<area shape="rect" id="node9" href="$class_v_bucket_map.html#a13d1ac51dd1608102603e56dc1bc31a5" title="VBucketMap::addBucket" alt="" coords="937,5,1124,33"/>
+<area shape="rect" id="node11" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="940,55,1121,83"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_engine.html#a5d430e22b38a6a91529e186ecc1ed308" title="EventuallyPersistentEngine::getServerApi" alt="" coords="881,106,1180,134"/>
+<area shape="rect" id="node15" href="$class_dispatcher.html#a434d608a754c810a0746df5a09995f5f" title="Schedule a job to run." alt="" coords="949,157,1112,185"/>
+<area shape="rect" id="node21" href="$class_v_bucket.html#a5af617eff7ee70d402de9d0e473634db" title="VBucket::toString" alt="" coords="960,207,1101,235"/>
+<area shape="rect" id="node17" href="$class_priority.html#a3fbf6ae89b961932f35e0148fce65697" title="Return an integer value that represents a priority." alt="" coords="1229,131,1413,159"/>
+<area shape="rect" id="node19" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="1249,182,1393,210"/>
+</map>

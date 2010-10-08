@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_item.html#ace70aa3fc891b5371319eb1d07edfa44" title="Item::getCas" alt="" coords="663,49,769,77"/>
+<area shape="rect" id="node5" href="$class_item.html#a9db6711a31cdacddcba49525daaa69bc" title="Item::getData" alt="" coords="335,49,449,77"/>
+<area shape="rect" id="node7" href="$class_item.html#a553eb7e9f447ee7c17a3933e992962e3" title="Item::getFlags" alt="" coords="333,100,451,128"/>
+<area shape="rect" id="node9" href="$class_item.html#a69a127532c48e377f418623b03be542c" title="Item::getKey" alt="" coords="339,151,445,179"/>
+<area shape="rect" id="node11" href="$class_eventually_persistent_store.html#a6cde59588b9142737e11f8cfbb342308" title="EventuallyPersistentStore::getLocked" alt="" coords="257,201,527,229"/>
+<area shape="rect" id="node22" href="$class_item.html#a0a9d310ffc2cc4e441057d3f98568d4c" title="Item::getNBytes" alt="" coords="327,252,457,280"/>
+<area shape="rect" id="node24" href="$class_get_value.html#a29b1af7bd02fcc1184035533daf6d65c" title="Engine code describing what happened." alt="" coords="315,303,469,331"/>
+<area shape="rect" id="node26" href="$class_get_value.html#ae1cd9cfc457f71a763ce709a912bd687" title="The value retrieved for the key." alt="" coords="317,353,467,381"/>
+<area shape="rect" id="node28" href="$class_remembering_callback.html#a03540cf6ba123177c4697f3ad5912089" title="Wait for a value to be available." alt="" coords="259,404,525,432"/>
+<area shape="rect" id="node13" href="$class_callback.html#a1bf0c7687245c40aa068b6f452d08a89" title="Method called on callback." alt="" coords="645,151,787,179"/>
+<area shape="rect" id="node16" href="$class_eventually_persistent_store.html#a9daff8cc0d0bfdade59dc3a392c71928" title="EventuallyPersistentStore::getVBucket" alt="" coords="577,201,855,229"/>
+<area shape="rect" id="node20" href="$class_item.html#a4fb03efb2dd1e866009e9b6af4f08278" title="Item::setCas" alt="" coords="664,252,768,280"/>
+<area shape="rect" id="node18" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="905,201,1087,229"/>
+<area shape="rect" id="node30" href="$class_sync_object.html#a690d11a1ce8b8791f5d28942192eb51c" title="SyncObject::wait" alt="" coords="649,404,783,432"/>
+<area shape="rect" id="node32" href="$class_mutex.html#af1011a45e16f60ec45972d550abd4566" title="Mutex::setHolder" alt="" coords="928,404,1064,432"/>
+</map>

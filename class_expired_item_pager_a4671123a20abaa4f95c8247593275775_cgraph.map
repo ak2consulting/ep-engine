@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_eventually_persistent_store.html#a7e6b0cdbf2d22a780b287f93598ef37a" title="EventuallyPersistentStore::deleteMany" alt="" coords="259,5,539,33"/>
+<area shape="rect" id="node5" href="$common_8hh.html#a176d29eac969ba0153b53f4e87e1ad26" title="getLogger" alt="" coords="353,55,444,83"/>
+<area shape="rect" id="node7" href="$class_atomic.html#a1933302ab9e6ee2d9860ee4b9b2b76f7" title="Atomic::incr" alt="" coords="347,106,451,134"/>
+<area shape="rect" id="node9" href="$class_dispatcher.html#a25ef00e88cad1a3a45e776b080ea8c82" title="Delay a task." alt="" coords="324,157,473,185"/>
+<area shape="rect" id="node11" href="$class_eventually_persistent_store.html#a403a339804475ad6a7cdef3259179b2f" title="EventuallyPersistentStore::visit" alt="" coords="284,207,513,235"/>
+<area shape="rect" id="node13" href="$class_v_bucket_map.html#a18ab611b49f420f599579541a7f31854" title="VBucketMap::getBucket" alt="" coords="597,157,779,185"/>
+<area shape="rect" id="node15" href="$class_v_bucket_map.html#a8c3015c412759c004ff2bbb0fd754f47" title="VBucketMap::getSize" alt="" coords="607,207,769,235"/>
+<area shape="rect" id="node17" href="$class_v_bucket_visitor.html#a3d803642b386887936517b99938113ef" title="Begin visiting a bucket." alt="" coords="587,258,789,286"/>
+</map>

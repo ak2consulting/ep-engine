@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_dispatcher.html#a2fbf23f68f0c9b6cd817a45c9b09c014" title="Wake up the given task." alt="" coords="169,30,305,58"/>
+<area shape="rect" id="node5" href="$class_dispatcher.html#af5d5d7984eb0ca4b63228662b2ed815b" title="Cancel a task." alt="" coords="356,5,500,33"/>
+<area shape="rect" id="node7" href="$class_sync_object.html#ab27c39d3f676725ab2e193bf2678d5b4" title="SyncObject::notify" alt="" coords="356,55,500,83"/>
+</map>

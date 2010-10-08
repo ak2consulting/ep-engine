@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_spin_lock.html#ae35cf9e034be7ddced1fcfaefb0161ca" title="SpinLock::acquire" alt="" coords="216,5,357,33"/>
+<area shape="rect" id="node5" href="$class_spin_lock.html#aa146b7bb5028cacfe9cf90b17ab23951" title="SpinLock::tryAcquire" alt="" coords="407,5,567,33"/>
+</map>

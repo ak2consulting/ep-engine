@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$gethrtime_8c.html#a3e29bd6885708a22da838cf7afadc358" title="clock_gettime" alt="" coords="252,157,367,185"/>
+<area shape="rect" id="node5" href="$gethrtime_8c.html#ac0f2d9a214d8f303481d0b5a2013c78a" title="gethrtime" alt="" coords="417,157,505,185"/>
+<area shape="rect" id="node7" href="$class_v_bucket.html#a7bd89bc578b2d206c005d3d43f71d732" title="VBucket::addPendingOp" alt="" coords="623,5,807,33"/>
+<area shape="rect" id="node9" href="$class_tap_b_g_fetch_callback.html#a9d28ed3a1fe6958fdbc99683ce98213c" title="Perform my task." alt="" coords="604,55,825,83"/>
+<area shape="rect" id="node11" href="$class_b_g_fetch_callback.html#af109ee7a82516b29aa9e8d266065f664" title="Perform my task." alt="" coords="923,131,1120,159"/>
+<area shape="rect" id="node13" href="$class_eventually_persistent_store.html#a49e45b234ec8aa1300cd483d595179d4" title="Complete a background fetch." alt="" coords="556,157,873,185"/>
+<area shape="rect" id="node16" href="$ep__engine_8cc.html#ac8f6345d9c70076926d89e278e135757" title="doDispatcherStat" alt="" coords="647,207,783,235"/>
+<area shape="rect" id="node18" href="$class_dispatcher.html#ae64402ad4f9c794868be79db9655e3cb" title="Dispatcher&#39;s main loop." alt="" coords="652,258,777,286"/>
+<area shape="rect" id="node31" href="$class_block_timer.html#a47fc50463a1d9d0758b9aa06a06a39b7" title="BlockTimer::~BlockTimer" alt="" coords="619,309,811,337"/>
+<area shape="rect" id="node20" href="$dispatcher_8cc.html#a300914a3de319cdefcafa3cf663c67c4" title="launch_dispatcher_thread" alt="" coords="924,258,1119,286"/>
+<area shape="rect" id="node22" href="$class_dispatcher.html#a740a58c6547cdf33dc9323d486630ccb" title="Start this dispatcher&#39;s thread." alt="" coords="1168,258,1301,286"/>
+<area shape="rect" id="node24" href="$class_eventually_persistent_store.html#af8760ca2c4c5ec7744d99696bf335d45" title="EventuallyPersistentStore::startDispatcher" alt="" coords="1371,233,1675,261"/>
+<area shape="rect" id="node28" href="$class_eventually_persistent_store.html#ad0434fcfc782d341e23fab3b5aba2f42" title="EventuallyPersistentStore::startNonIODispatcher" alt="" coords="1351,283,1695,311"/>
+<area shape="rect" id="node26" href="$class_eventually_persistent_store.html#a9017ce338cc89c41417c4a1fe22527f9" title="EventuallyPersistentStore::EventuallyPersistentStore" alt="" coords="1745,258,2116,286"/>
+</map>

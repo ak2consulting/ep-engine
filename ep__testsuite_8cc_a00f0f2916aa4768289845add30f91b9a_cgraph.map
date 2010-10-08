@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ep__testsuite_8cc.html#a3c2ef9d6ff9e4aa489b142a3532714b2" title="get_int_stat" alt="" coords="413,5,512,33"/>
+<area shape="rect" id="node7" href="$ep__testsuite_8cc.html#a3ccf9d7e0d76573463401c5b8e5b90e3" title="wait_for_stat_change" alt="" coords="191,55,353,83"/>
+<area shape="rect" id="node5" href="$ep__testsuite_8cc.html#a920472797d0c816702cd16b0edce6145" title="add_stats" alt="" coords="572,5,657,33"/>
+<area shape="rect" id="node9" href="$ep__testsuite_8cc.html#a1ccde49794566c7a81913b3617849f94" title="decayingSleep" alt="" coords="403,55,523,83"/>
+</map>

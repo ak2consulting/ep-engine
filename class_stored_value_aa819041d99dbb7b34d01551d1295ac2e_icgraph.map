@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_stored_value.html#a94cd195869b909f927393ea532cc5466" title="If we&#39;re still in a pending ID state, clear the state." alt="" coords="243,5,453,33"/>
+<area shape="rect" id="node7" href="$class_stored_value.html#a1c96da9d1839d6163d729086eb386e7f" title="Set this item to be pending an ID." alt="" coords="249,55,447,83"/>
+<area shape="rect" id="node5" href="$class_stored_value.html#ac30f7f07745658054e521c3919574143" title="Mark this item as dirty as of a certain time." alt="" coords="501,5,659,33"/>
+</map>

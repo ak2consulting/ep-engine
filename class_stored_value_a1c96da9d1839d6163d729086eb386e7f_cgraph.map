@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_stored_value.html#a8ab790e38edfc5564ccd42efeb42c231" title="True if this item has an ID." alt="" coords="272,5,419,33"/>
+<area shape="rect" id="node5" href="$class_stored_value.html#aa819041d99dbb7b34d01551d1295ac2e" title="Is this item currently waiting to receive a new ID?" alt="" coords="252,55,439,83"/>
+</map>

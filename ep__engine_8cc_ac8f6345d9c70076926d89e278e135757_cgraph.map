@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$ep__engine_8cc.html#aad8b607dd4a00e95561ec38ed2583f13" title="add_casted_stat" alt="" coords="244,5,375,33"/>
+<area shape="rect" id="node5" href="$config__static_8h.html#ac0f2d9a214d8f303481d0b5a2013c78a" title="gethrtime" alt="" coords="265,55,353,83"/>
+<area shape="rect" id="node11" href="$class_dispatcher_state.html#a306d7d98d6c3c7a48271ae336557a5a1" title="Get the name of the current dispatcher state." alt="" coords="193,106,425,134"/>
+<area shape="rect" id="node13" href="$class_dispatcher_state.html#a41d7120910b22a6daacad926819c678d" title="Get the name of the currently running task." alt="" coords="196,157,423,185"/>
+<area shape="rect" id="node15" href="$class_dispatcher_state.html#a144b040f9c4a14d87a09e7051eb300b6" title="Get the time the current task started." alt="" coords="200,207,419,235"/>
+<area shape="rect" id="node17" href="$class_dispatcher_state.html#a67adbdd25da6e4f947f3a92eceb6334e" title="True if the dispatcher is currently running a task." alt="" coords="193,258,425,286"/>
+<area shape="rect" id="node7" href="$gethrtime_8c.html#a3e29bd6885708a22da838cf7afadc358" title="clock_gettime" alt="" coords="476,55,591,83"/>
+<area shape="rect" id="node9" href="$gethrtime_8c.html#a3c1b03528626cf799b363f0f51786d3b" title="mach_absolute_difference" alt="" coords="640,55,837,83"/>
+</map>
